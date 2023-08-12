@@ -1,0 +1,12 @@
+Conductor   : ZAMORA/ZAVALETA/RONAL_MANUEL
+Licencia No.: 63736112
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.   Fecha        Placa      Infraccion   Gravedad    Multa
+0)    24/12/2020   J5T-691       128       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00

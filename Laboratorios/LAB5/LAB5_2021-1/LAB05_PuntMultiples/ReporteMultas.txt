@@ -1,0 +1,450 @@
+Licencia  Nombre
+==================================================
+63736112  ZAMORA ZAVALETA RONAL MANUEL
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 3950.00
+45043076  VEGA VILCARA CARMELA TERESA
+    * Multa Leves:      0.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 1422.00
+53853385  SOLIS NARVAEZ MARIA MADELEINE
+    * Multa Leves:      0.00
+    * Multa Graves:     2844.00
+    * Multa Muy Graves: 3871.00
+27185429  SOLIS CHUNG ROLANDO
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 0.00
+35912665  MARTINEZ CRUZ EVERT RONY
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 6873.00
+13219606  RODRIGUEZ MORENO BLANCA OFELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 1896.00
+71832810  SUELDO SEDANO ADRIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 0.00
+35297848  ASTETE CHANG GUIDA
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 474.00
+80310768  MINAYA BERROCAL HELI
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 948.00
+75945248  MEJIA RODRIGUEZ INES VALENTINA
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 0.00
+84186239  RIVERO CORONADO HECTOR ALONSO
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 948.00
+68310808  CANO POLO MILAGROS ISABEL
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 474.00
+97849227  PRADO ESPINOZA MILAGROS
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 7347.00
+88854166  PINTO ROJAS JUVENAL FRANCISCO
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 948.00
+15029228  VALVERDE MAEIREIZO MELVIN JAIR
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 948.00
+60335381  DIAZ TANG ENRIQUE
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 0.00
+54141214  DURAND MIRANDA MIGUEL JUAN
+    * Multa Leves:      158.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 1422.00
+79766395  FUENTES ESCALANTE PATRICIA ELIZABETH
+    * Multa Leves:      316.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 3397.00
+48878256  RAFFO CORONADO ROLANDO
+    * Multa Leves:      316.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 948.00
+89314225  RIOS DURAND CARLOS EDILBERTO
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 5925.00
+48450395  RAMIREZ ASTETE KARINA ESTEFANIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 948.00
+31107104  MOSCOSO ARIAS FIORELLA
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 0.00
+16477908  BACA CAMACHO MILAGROS NATALIA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 474.00
+58992942  NARVAEZ CASTILLO JESUS RAFAEL
+    * Multa Leves:      158.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 948.00
+77763722  FARFAN SALAZAR MARGOT
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 2370.00
+32090869  SUELDO ANTEZANO LUIS JESUS
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 474.00
+66849703  MERCADO CORONEL ELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 474.00
+26522329  SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+    * Multa Leves:      158.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 0.00
+73357516  TRIGUEROS JUGO LUZ
+    * Multa Leves:      0.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 474.00
+48528209  ZAVALETA CORONADO FELICITA ELOISA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 5925.00
+69494747  MENDOZA ROMERO VIRGINIA YDALI
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+47844324  VILCA LEE NESTOR HUGO
+    * Multa Leves:      158.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 0.00
+82870470  SEDANO RETAMOSO ELIA YOLANDA
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 474.00
+89941095  ARCA LARRIEGA LUCERO YLIANA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 2133.00
+87495937  MORALES PASQUEL KARIN MARIBEL
+    * Multa Leves:      0.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 4424.00
+49927087  INGA PALOMARES ERIKA
+    * Multa Leves:      316.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 4424.00
+50201756  ZEGARRA PENA CARMELA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 474.00
+29989682  CAMACHO PAIRAZAMAN YDALI LUCERO
+    * Multa Leves:      158.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 2370.00
+64178096  VIZCARRA CARBAJAL IVAN FAUSTO
+    * Multa Leves:      158.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 3081.00
+69252518  GORDILLO SANCHEZ RONALD JUVENAL
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 2923.00
+42956681  POMAJAMBO EGUSQUIZA PAUL
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 948.00
+68303148  PATINO BOLANOS DELICIA VIRGINIA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+87282766  SUAREZ CHANG GLORIA
+    * Multa Leves:      158.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 948.00
+73818744  FUENTES GAMARRA HUGO
+    * Multa Leves:      158.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 948.00
+53374153  SERRANO IBEROS FRANCISCO
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 6399.00
+60784914  RUIZ ZEVALLOS WALTER RONY
+    * Multa Leves:      316.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 2844.00
+35671623  EPIQUEN YEP GUIDA VICTORIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 3397.00
+44188994  VILCARA YALLICO MAGALI
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 4898.00
+73972114  AVILA MARTEL JAIME MANUEL
+    * Multa Leves:      158.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 948.00
+99950484  CORTES CORTEZ RAUL ALEX
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 948.00
+28820944  RIOS ZAMORA INES
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 474.00
+71578206  ARROYO TOMASICHE NATALIA
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 2844.00
+21621497  AYALA CASTILLO ERICKA OFELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 711.00
+30441350  RETAMOSO SALAMANCA DELIA MARITZA
+    * Multa Leves:      158.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 1422.00
+63291514  LAU ZAVALETA YDALI ELIA
+    * Multa Leves:      158.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 0.00
+70414420  AVILA REYES TATIANA
+    * Multa Leves:      158.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 4898.00
+54447051  AVILA DEL CASTILLO ANNIE
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 6399.00
+51395324  TRIGUEROS PORTUGAL ARTURO FAUSTO
+    * Multa Leves:      158.00
+    * Multa Graves:     0.00
+    * Multa Muy Graves: 0.00
+32244565  HENRIQUEZ PAREDES PAUL RAFAEL
+    * Multa Leves:      0.00
+    * Multa Graves:     2528.00
+    * Multa Muy Graves: 2370.00
+79641328  TOKESHI GUEVARA JAIME
+    * Multa Leves:      316.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 474.00
+34976629  LOZADA ARGUEDAS FELICITA VALENTINA
+    * Multa Leves:      158.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 1659.00
+75348522  LOZADA FORZANI DELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 0.00
+27268323  LOZADA IBEROS HELI BLANCA
+    * Multa Leves:      0.00
+    * Multa Graves:     0.00
+    * Multa Muy Graves: 0.00
+88167677  PRADO VERA JUAN
+    * Multa Leves:      158.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 2844.00
+86429854  MOSCOSO LAURA JANET VALENTINA
+    * Multa Leves:      158.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 7347.00
+67185679  FLORENCIO CORONADO ALONSO
+    * Multa Leves:      158.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 1896.00
+80457845  NORABUENA MOYA HECTOR
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 474.00
+24859596  FLORIAN CUBA CHRISTIAN
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 1422.00
+39544560  LUNA VARGAS WALDEMAR
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 7347.00
+90467829  IPARRAGUIRRE PEREZ NICOLAS
+    * Multa Leves:      0.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 948.00
+15115705  HERNANDEZ CORRALES GUILLERMO
+    * Multa Leves:      0.00
+    * Multa Graves:     0.00
+    * Multa Muy Graves: 0.00
+73567806  ARCA SANCHEZ MAGALI BEATRIZ
+    * Multa Leves:      316.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 10270.00
+81485316  JUSTINO MARTINEZ ENRIQUE
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 948.00
+49428502  RIVERO CORTEZ WILVER ALFONSO
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+12270502  CUEVA FUENTES CINTHIA DELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 948.00
+29833157  HIJAR LAM MARTIN
+    * Multa Leves:      0.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 3871.00
+38862473  WONG MAEIREIZO BEATRIZ
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 948.00
+12858682  ZARATE PEREZ ALEXANDER
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 1896.00
+86718074  ESCALANTE ROJAS INES ADRIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 4898.00
+54665716  GONZALES GAMARRA GIOVANA KARINA
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+36079131  ZAVALETA VILCA ERICKA ELEONOR
+    * Multa Leves:      158.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 474.00
+31205866  VIZCARRA MONTERO JAIR
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 0.00
+12443643  LEE SERRANO ROSARIO
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 474.00
+44346371  ALFARO ALFARO ERICK BRUNO
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 0.00
+25518120  RONDON CABRERA ALEXANDER ADOLFO
+    * Multa Leves:      158.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 474.00
+15559308  BRAVO CORTES JANET FLOR
+    * Multa Leves:      0.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 2923.00
+30046639  SALAMANCA VEGA VIRGINIA MARTHA
+    * Multa Leves:      316.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 948.00
+39244942  PENA SUAREZ GLENDA MARGOT
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+81528434  EPIQUEN AVILA ENRIQUE
+    * Multa Leves:      158.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 1422.00
+35683701  DIAZ MOYA ELIA ANNIE
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 474.00
+43454884  ESPINOZA CHANG SHIRLEY
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 474.00
+96693273  VALDERRAMA BERROCAL EVERT
+    * Multa Leves:      0.00
+    * Multa Graves:     2528.00
+    * Multa Muy Graves: 2449.00
+64532449  INFANTES MERCADO LUIS WALDEMAR
+    * Multa Leves:      316.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 4424.00
+77367073  JAUREGUI DEL CASTILLO VICTOR RICARDO
+    * Multa Leves:      0.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 3397.00
+81799482  CERNA CERNA CINTHIA
+    * Multa Leves:      0.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 0.00
+13628871  QUIROGA HERNANDEZ SILVANA ZKENIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 3950.00
+79672079  CONTRERAS CHANG JOHANA CINTHIA
+    * Multa Leves:      158.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 474.00
+19963454  SALAMANCA CABRERA NESTOR EVERT
+    * Multa Leves:      0.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 2844.00
+51929951  CHAVEZ BERROCAL JOHAN
+    * Multa Leves:      0.00
+    * Multa Graves:     0.00
+    * Multa Muy Graves: 0.00
+74325123  TANG MOSCOSO JOHANA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 948.00
+47528229  SAAVEDRA GONZALES WILMER
+    * Multa Leves:      0.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 474.00
+50200823  LEYVA SAM DIANA DELIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 1422.00
+37080813  FLORIAN VALDERRAMA JOSE
+    * Multa Leves:      158.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 474.00
+16136330  YEP PRECIADO RICHARD
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 474.00
+19568447  VEGA SORIA HENRRY
+    * Multa Leves:      0.00
+    * Multa Graves:     632.00
+    * Multa Muy Graves: 0.00
+82031355  EGUSQUIZA BERROCAL DORIS NANCY
+    * Multa Leves:      158.00
+    * Multa Graves:     1264.00
+    * Multa Muy Graves: 2449.00
+52003695  CARBAJAL SALAS MAGDA ZKENIA
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 0.00
+34248357  LEYVA LANDEO NANCY SONIA
+    * Multa Leves:      0.00
+    * Multa Graves:     1896.00
+    * Multa Muy Graves: 3081.00
+27864822  FIGUEROA MEDINA MADELEINE
+    * Multa Leves:      474.00
+    * Multa Graves:     1580.00
+    * Multa Muy Graves: 0.00
+85501710  VIZCARDO SINCHE MARIBEL
+    * Multa Leves:      0.00
+    * Multa Graves:     948.00
+    * Multa Muy Graves: 1185.00
+16925690  CABRERA TORO FANNY
+    * Multa Leves:      0.00
+    * Multa Graves:     2212.00
+    * Multa Muy Graves: 1422.00
+52002275  CASANOVA ZEGARRA MARITZA
+    * Multa Leves:      158.00
+    * Multa Graves:     316.00
+    * Multa Muy Graves: 711.00

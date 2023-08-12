@@ -1,0 +1,1232 @@
+Conductor   : ZAMORA/ZAVALETA/RONAL_MANUEL
+Licencia No.: 63736112
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.   Fecha        Placa      Infraccion   Gravedad    Multa
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VEGA/VILCARA/CARMELA_TERESA
+Licencia No.: 45043076
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SOLIS/NARVAEZ/MARIA_MADELEINE
+Licencia No.: 53853385
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SOLIS/CHUNG/ROLANDO
+Licencia No.: 27185429
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MARTINEZ/CRUZ/EVERT_RONY
+Licencia No.: 35912665
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RODRIGUEZ/MORENO/BLANCA_OFELIA
+Licencia No.: 13219606
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUELDO/SEDANO/ADRIA
+Licencia No.: 71832810
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ASTETE/CHANG/GUIDA
+Licencia No.: 35297848
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MINAYA/BERROCAL/HELI
+Licencia No.: 80310768
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MEJIA/RODRIGUEZ/INES_VALENTINA
+Licencia No.: 75945248
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIVERO/CORONADO/HECTOR_ALONSO
+Licencia No.: 84186239
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CANO/POLO/MILAGROS_ISABEL
+Licencia No.: 68310808
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PRADO/ESPINOZA/MILAGROS
+Licencia No.: 97849227
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PINTO/ROJAS/JUVENAL_FRANCISCO
+Licencia No.: 88854166
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VALVERDE/MAEIREIZO/MELVIN_JAIR
+Licencia No.: 15029228
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : DIAZ/TANG/ENRIQUE
+Licencia No.: 60335381
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : DURAND/MIRANDA/MIGUEL_JUAN
+Licencia No.: 54141214
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FUENTES/ESCALANTE/PATRICIA_ELIZABETH
+Licencia No.: 79766395
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RAFFO/CORONADO/ROLANDO
+Licencia No.: 48878256
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIOS/DURAND/CARLOS_EDILBERTO
+Licencia No.: 89314225
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RAMIREZ/ASTETE/KARINA_ESTEFANIA
+Licencia No.: 48450395
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MOSCOSO/ARIAS/FIORELLA
+Licencia No.: 31107104
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : BACA/CAMACHO/MILAGROS_NATALIA
+Licencia No.: 16477908
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : NARVAEZ/CASTILLO/JESUS_RAFAEL
+Licencia No.: 58992942
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FARFAN/SALAZAR/MARGOT
+Licencia No.: 77763722
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUELDO/ANTEZANO/LUIS_JESUS
+Licencia No.: 32090869
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MERCADO/CORONEL/ELIA
+Licencia No.: 66849703
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SANCHEZ/DEL_CASTILLO/FIORELLA_ROSARIO
+Licencia No.: 26522329
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : TRIGUEROS/JUGO/LUZ
+Licencia No.: 73357516
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZAVALETA/CORONADO/FELICITA_ELOISA
+Licencia No.: 48528209
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MENDOZA/ROMERO/VIRGINIA_YDALI
+Licencia No.: 69494747
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VILCA/LEE/NESTOR_HUGO
+Licencia No.: 47844324
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SEDANO/RETAMOSO/ELIA_YOLANDA
+Licencia No.: 82870470
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARCA/LARRIEGA/LUCERO_YLIANA
+Licencia No.: 89941095
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MORALES/PASQUEL/KARIN_MARIBEL
+Licencia No.: 87495937
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : INGA/PALOMARES/ERIKA
+Licencia No.: 49927087
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZEGARRA/PENA/CARMELA
+Licencia No.: 50201756
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CAMACHO/PAIRAZAMAN/YDALI_LUCERO
+Licencia No.: 29989682
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARRA/CARBAJAL/IVAN_FAUSTO
+Licencia No.: 64178096
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : GORDILLO/SANCHEZ/RONALD_JUVENAL
+Licencia No.: 69252518
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : POMAJAMBO/EGUSQUIZA/PAUL
+Licencia No.: 42956681
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PATINO/BOLANOS/DELICIA_VIRGINIA
+Licencia No.: 68303148
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUAREZ/CHANG/GLORIA
+Licencia No.: 87282766
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FUENTES/GAMARRA/HUGO
+Licencia No.: 73818744
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SERRANO/IBEROS/FRANCISCO
+Licencia No.: 53374153
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RUIZ/ZEVALLOS/WALTER_RONY
+Licencia No.: 60784914
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : EPIQUEN/YEP/GUIDA_VICTORIA
+Licencia No.: 35671623
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VILCARA/YALLICO/MAGALI
+Licencia No.: 44188994
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/MARTEL/JAIME_MANUEL
+Licencia No.: 73972114
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CORTES/CORTEZ/RAUL_ALEX
+Licencia No.: 99950484
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIOS/ZAMORA/INES
+Licencia No.: 28820944
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARROYO/TOMASICHE/NATALIA
+Licencia No.: 71578206
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : AYALA/CASTILLO/ERICKA_OFELIA
+Licencia No.: 21621497
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RETAMOSO/SALAMANCA/DELIA_MARITZA
+Licencia No.: 30441350
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LAU/ZAVALETA/YDALI_ELIA
+Licencia No.: 63291514
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/REYES/TATIANA
+Licencia No.: 70414420
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/DEL_CASTILLO/ANNIE
+Licencia No.: 54447051
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : TRIGUEROS/PORTUGAL/ARTURO_FAUSTO
+Licencia No.: 51395324
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : HENRIQUEZ/PAREDES/PAUL_RAFAEL
+Licencia No.: 32244565
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : TOKESHI/GUEVARA/JAIME
+Licencia No.: 79641328
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/ARGUEDAS/FELICITA_VALENTINA
+Licencia No.: 34976629
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/FORZANI/DELIA
+Licencia No.: 75348522
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/IBEROS/HELI_BLANCA
+Licencia No.: 27268323
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PRADO/VERA/JUAN
+Licencia No.: 88167677
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : MOSCOSO/LAURA/JANET_VALENTINA
+Licencia No.: 86429854
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORENCIO/CORONADO/ALONSO
+Licencia No.: 67185679
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : NORABUENA/MOYA/HECTOR
+Licencia No.: 80457845
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORIAN/CUBA/CHRISTIAN
+Licencia No.: 24859596
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LUNA/VARGAS/WALDEMAR
+Licencia No.: 39544560
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : IPARRAGUIRRE/PEREZ/NICOLAS
+Licencia No.: 90467829
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : HERNANDEZ/CORRALES/GUILLERMO
+Licencia No.: 15115705
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARCA/SANCHEZ/MAGALI_BEATRIZ
+Licencia No.: 73567806
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : JUSTINO/MARTINEZ/ENRIQUE
+Licencia No.: 81485316
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIVERO/CORTEZ/WILVER_ALFONSO
+Licencia No.: 49428502
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CUEVA/FUENTES/CINTHIA_DELIA
+Licencia No.: 12270502
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : HIJAR/LAM/MARTIN
+Licencia No.: 29833157
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : WONG/MAEIREIZO/BEATRIZ
+Licencia No.: 38862473
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZARATE/PEREZ/ALEXANDER
+Licencia No.: 12858682
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ESCALANTE/ROJAS/INES_ADRIA
+Licencia No.: 86718074
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : GONZALES/GAMARRA/GIOVANA_KARINA
+Licencia No.: 54665716
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZAVALETA/VILCA/ERICKA_ELEONOR
+Licencia No.: 36079131
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARRA/MONTERO/JAIR
+Licencia No.: 31205866
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEE/SERRANO/ROSARIO
+Licencia No.: 12443643
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ALFARO/ALFARO/ERICK_BRUNO
+Licencia No.: 44346371
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : RONDON/CABRERA/ALEXANDER_ADOLFO
+Licencia No.: 25518120
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : BRAVO/CORTES/JANET_FLOR
+Licencia No.: 15559308
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SALAMANCA/VEGA/VIRGINIA_MARTHA
+Licencia No.: 30046639
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PENA/SUAREZ/GLENDA_MARGOT
+Licencia No.: 39244942
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : EPIQUEN/AVILA/ENRIQUE
+Licencia No.: 81528434
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : DIAZ/MOYA/ELIA_ANNIE
+Licencia No.: 35683701
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ESPINOZA/CHANG/SHIRLEY
+Licencia No.: 43454884
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VALDERRAMA/BERROCAL/EVERT
+Licencia No.: 96693273
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : INFANTES/MERCADO/LUIS_WALDEMAR
+Licencia No.: 64532449
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : JAUREGUI/DEL_CASTILLO/VICTOR_RICARDO
+Licencia No.: 77367073
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CERNA/CERNA/CINTHIA
+Licencia No.: 81799482
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : QUIROGA/HERNANDEZ/SILVANA_ZKENIA
+Licencia No.: 13628871
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CONTRERAS/CHANG/JOHANA_CINTHIA
+Licencia No.: 79672079
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SALAMANCA/CABRERA/NESTOR_EVERT
+Licencia No.: 19963454
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CHAVEZ/BERROCAL/JOHAN
+Licencia No.: 51929951
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : TANG/MOSCOSO/JOHANA
+Licencia No.: 74325123
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : SAAVEDRA/GONZALES/WILMER
+Licencia No.: 47528229
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEYVA/SAM/DIANA_DELIA
+Licencia No.: 50200823
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORIAN/VALDERRAMA/JOSE
+Licencia No.: 37080813
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : YEP/PRECIADO/RICHARD
+Licencia No.: 16136330
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VEGA/SORIA/HENRRY
+Licencia No.: 19568447
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : EGUSQUIZA/BERROCAL/DORIS_NANCY
+Licencia No.: 82031355
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CARBAJAL/SALAS/MAGDA_ZKENIA
+Licencia No.: 52003695
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEYVA/LANDEO/NANCY_SONIA
+Licencia No.: 34248357
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : FIGUEROA/MEDINA/MADELEINE
+Licencia No.: 27864822
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARDO/SINCHE/MARIBEL
+Licencia No.: 85501710
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CABRERA/TORO/FANNY
+Licencia No.: 16925690
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : CASANOVA/ZEGARRA/MARITZA
+Licencia No.: 52002275
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00

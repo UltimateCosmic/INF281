@@ -1,0 +1,1804 @@
+Conductor   : ZAMORA/ZAVALETA/RONAL_MANUEL
+Licencia No.: 63736112
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.   Fecha        Placa      Infraccion   Gravedad    Multa
+0)    04/03/2020   K0D-676       115       Grave       237.00
+1)    21/04/2020   K0D-676       304       Muy_Grave   3950.00
+2)    12/11/2020   K0D-676       128       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : VEGA/VILCARA/CARMELA_TERESA
+Licencia No.: 45043076
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    05/08/2020   S7E-946       145       Grave       237.00
+1)    19/07/2020   I1D-713       154       Grave       237.00
+2)    06/12/2020   S7E-946       149       Grave       237.00
+3)    02/01/2020   S7E-946       134       Grave       237.00
+4)    23/02/2020   R1T-735       334       Muy_Grave   474.00
+5)    29/10/2020   R1T-735       318       Muy_Grave   474.00
+6)    04/10/2020   S7E-946       134       Grave       237.00
+7)    17/08/2020   R1T-735       146       Grave       237.00
+8)    24/04/2020   R1T-735       328       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : SOLIS/NARVAEZ/MARIA_MADELEINE
+Licencia No.: 53853385
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    19/06/2020   O5L-856       103       Grave       237.00
+1)    16/01/2020   R6P-267       150       Grave       237.00
+2)    13/10/2020   T9X-217       127       Grave       237.00
+3)    08/11/2020   T9X-217       110       Grave       237.00
+4)    07/02/2020   R6P-267       121       Grave       237.00
+5)    22/05/2020   O5L-856       110       Grave       237.00
+6)    10/01/2020   O5L-856       307       Muy_Grave   948.00
+7)    11/12/2020   T9X-217       147       Grave       237.00
+8)    29/07/2020   O5L-856       153       Grave       237.00
+9)    18/08/2020   T9X-217       302       Muy_Grave   1975.00
+10)    15/01/2020   O5L-856       306       Muy_Grave   948.00
+11)    06/06/2020   T9X-217       140       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            9          2844.00
+Infracciones muy graves:        0            0.00
+Conductor   : SOLIS/CHUNG/ROLANDO
+Licencia No.: 27185429
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    02/02/2020   U3F-754       125       Grave       237.00
+1)    27/02/2020   U3F-754       337       Muy_Grave   0.00
+2)    13/06/2020   S9I-160       165       Grave       237.00
+3)    05/06/2020   U3F-754       134       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : MARTINEZ/CRUZ/EVERT_RONY
+Licencia No.: 35912665
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/12/2020   O4X-500       162       Grave       237.00
+1)    12/10/2020   A6E-125       157       Grave       237.00
+2)    15/06/2020   O2Z-308       111       Grave       237.00
+3)    03/11/2020   O4X-500       341       Muy_Grave   5925.00
+4)    15/07/2020   A6E-125       162       Grave       237.00
+5)    11/06/2020   O4X-500       335       Muy_Grave   474.00
+6)    31/12/2020   O2Z-308       315       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : RODRIGUEZ/MORENO/BLANCA_OFELIA
+Licencia No.: 13219606
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    16/04/2020   T3B-722       313       Muy_Grave   474.00
+1)    20/06/2020   M2Q-712       312       Muy_Grave   474.00
+2)    20/07/2020   M2Q-712       307       Muy_Grave   948.00
+3)    29/08/2020   T3B-722       141       Grave       237.00
+4)    16/11/2020   T3B-722       333       Muy_Grave   474.00
+5)    04/09/2020   N1O-921       102       Grave       237.00
+6)    13/08/2020   M2Q-712       152       Grave       237.00
+7)    06/04/2020   N1O-921       145       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUELDO/SEDANO/ADRIA
+Licencia No.: 71832810
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    30/03/2020   W1C-444       160       Grave       237.00
+1)    19/01/2020   T1K-210       154       Grave       237.00
+2)    07/08/2020   T1K-210       116       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : ASTETE/CHANG/GUIDA
+Licencia No.: 35297848
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    26/07/2020   O7D-970       122       Grave       237.00
+1)    12/11/2020   O7D-970       326       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : MINAYA/BERROCAL/HELI
+Licencia No.: 80310768
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    22/06/2020   O2F-523       326       Muy_Grave   474.00
+1)    20/03/2020   O2F-523       163       Grave       237.00
+2)    19/03/2020   N5J-515       319       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : MEJIA/RODRIGUEZ/INES_VALENTINA
+Licencia No.: 75945248
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/04/2020   K6X-977       121       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIVERO/CORONADO/HECTOR_ALONSO
+Licencia No.: 84186239
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    19/06/2020   T6W-978       336       Muy_Grave   474.00
+1)    05/11/2020   T6W-978       316       Muy_Grave   474.00
+2)    23/12/2020   T6W-978       131       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : CANO/POLO/MILAGROS_ISABEL
+Licencia No.: 68310808
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    07/04/2020   K2N-341       114       Grave       237.00
+1)    05/10/2020   W8F-397       315       Muy_Grave   474.00
+2)    16/10/2020   I3A-223       151       Grave       237.00
+3)    06/08/2020   I3A-223       338       Muy_Grave   0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : PRADO/ESPINOZA/MILAGROS
+Licencia No.: 97849227
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    30/06/2020   I0K-077       323       Muy_Grave   474.00
+1)    29/06/2020   I0K-077       109       Grave       237.00
+2)    24/02/2020   I0K-077       311       Muy_Grave   474.00
+3)    27/01/2020   I0K-077       126       Grave       237.00
+4)    07/10/2020   I0K-077       328       Muy_Grave   474.00
+5)    14/07/2020   I0K-077       341       Muy_Grave   5925.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : PINTO/ROJAS/JUVENAL_FRANCISCO
+Licencia No.: 88854166
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    10/06/2020   H3E-885       122       Grave       237.00
+1)    10/12/2020   L3N-150       104       Grave       237.00
+2)    21/05/2020   L3N-150       334       Muy_Grave   474.00
+3)    22/09/2020   O0K-148       331       Muy_Grave   474.00
+4)    19/06/2020   L3N-150       135       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : VALVERDE/MAEIREIZO/MELVIN_JAIR
+Licencia No.: 15029228
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    27/09/2020   C0P-895       102       Grave       237.00
+1)    06/11/2020   J0Q-121       331       Muy_Grave   474.00
+2)    28/11/2020   N0Z-560       133       Grave       237.00
+3)    22/04/2020   J0Q-121       328       Muy_Grave   474.00
+4)    22/12/2020   J0Q-121       145       Grave       237.00
+5)    10/07/2020   C0P-895       134       Grave       237.00
+6)    27/11/2020   J0Q-121       154       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : DIAZ/TANG/ENRIQUE
+Licencia No.: 60335381
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    20/11/2020   E6T-667       162       Grave       237.00
+1)    19/08/2020   B3U-845       149       Grave       237.00
+2)    23/10/2020   E6T-667       166       Grave       237.00
+3)    25/07/2020   E6T-667       163       Grave       237.00
+4)    15/05/2020   E6T-667       105       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : DURAND/MIRANDA/MIGUEL_JUAN
+Licencia No.: 54141214
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    21/11/2020   G2I-709       114       Grave       237.00
+1)    14/03/2020   J7Y-327       104       Grave       237.00
+2)    18/04/2020   G2I-709       339       Muy_Grave   0.00
+3)    09/07/2020   J7Y-327       336       Muy_Grave   474.00
+4)    20/09/2020   G2I-709       122       Grave       237.00
+5)    20/01/2020   Y9G-536       330       Muy_Grave   474.00
+6)    28/03/2020   G2I-709       316       Muy_Grave   474.00
+7)    22/06/2020   J7Y-327       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : FUENTES/ESCALANTE/PATRICIA_ELIZABETH
+Licencia No.: 79766395
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    03/11/2020   H7P-047       317       Muy_Grave   474.00
+1)    27/10/2020   T3R-184       153       Grave       237.00
+2)    08/05/2020   T3R-184       146       Grave       237.00
+3)    22/01/2020   N6D-256       322       Muy_Grave   474.00
+4)    04/03/2020   H7P-047       208       Leve        0.00
+5)    04/03/2020   H7P-047       208       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            313.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : RAFFO/CORONADO/ROLANDO
+Licencia No.: 48878256
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/09/2020   W6Z-142       202       Leve        0.00
+1)    04/09/2020   W6Z-142       202       Leve        0.00
+2)    04/09/2020   W6Z-142       202       Leve        0.00
+3)    04/09/2020   W6Z-142       202       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            312.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIOS/DURAND/CARLOS_EDILBERTO
+Licencia No.: 89314225
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    27/01/2020   C3A-423       164       Grave       237.00
+1)    20/06/2020   C3A-423       110       Grave       237.00
+2)    21/02/2020   C3A-423       341       Muy_Grave   5925.00
+3)    02/12/2020   C3A-423       104       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : RAMIREZ/ASTETE/KARINA_ESTEFANIA
+Licencia No.: 48450395
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    13/08/2020   Q5S-871       339       Muy_Grave   0.00
+1)    22/02/2020   G1P-591       147       Grave       237.00
+2)    29/12/2020   G1P-591       331       Muy_Grave   474.00
+3)    22/04/2020   G1P-591       106       Grave       237.00
+4)    12/03/2020   H6H-085       317       Muy_Grave   474.00
+5)    13/05/2020   Q5S-871       147       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : MOSCOSO/ARIAS/FIORELLA
+Licencia No.: 31107104
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    08/01/2020   E0I-722       148       Grave       237.00
+1)    29/01/2020   O3T-110       158       Grave       237.00
+2)    15/06/2020   E0I-722       101       Grave       237.00
+3)    26/05/2020   O3T-110       122       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : BACA/CAMACHO/MILAGROS_NATALIA
+Licencia No.: 16477908
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    18/03/2020   X9D-758       123       Grave       237.00
+1)    10/10/2020   I0E-459       323       Muy_Grave   474.00
+2)    14/08/2020   I0E-459       338       Muy_Grave   0.00
+3)    29/07/2020   W7C-957       126       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : NARVAEZ/CASTILLO/JESUS_RAFAEL
+Licencia No.: 58992942
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    28/02/2020   Q6B-243       102       Grave       237.00
+1)    01/01/2020   V7O-315       123       Grave       237.00
+2)    07/08/2020   H8M-598       207       Leve        0.00
+3)    07/08/2020   H8M-598       207       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            155.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : FARFAN/SALAZAR/MARGOT
+Licencia No.: 77763722
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    24/06/2020   A1Q-612       322       Muy_Grave   474.00
+1)    17/03/2020   W2L-827       132       Grave       237.00
+2)    27/01/2020   Q4P-612       309       Muy_Grave   948.00
+3)    23/02/2020   D1M-667       112       Grave       237.00
+4)    21/01/2020   A1Q-612       339       Muy_Grave   0.00
+5)    01/11/2020   W2L-827       309       Muy_Grave   948.00
+6)    25/03/2020   A1Q-612       143       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUELDO/ANTEZANO/LUIS_JESUS
+Licencia No.: 32090869
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    01/08/2020   L4B-291       166       Grave       237.00
+1)    03/08/2020   L4B-291       162       Grave       237.00
+2)    27/01/2020   L4B-291       312       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : MERCADO/CORONEL/ELIA
+Licencia No.: 66849703
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    18/02/2020   B4N-777       139       Grave       237.00
+1)    20/11/2020   B4N-777       170       Grave       237.00
+2)    25/02/2020   B4N-777       115       Grave       237.00
+3)    24/07/2020   J2F-853       115       Grave       237.00
+4)    20/10/2020   J2F-853       114       Grave       237.00
+5)    14/06/2020   B4N-777       331       Muy_Grave   474.00
+6)    21/04/2020   B4N-777       124       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : SANCHEZ/DEL_CASTILLO/FIORELLA_ROSARIO
+Licencia No.: 26522329
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    09/06/2020   U7R-252       202       Leve        0.00
+1)    09/06/2020   U7R-252       202       Leve        0.00
+2)    09/06/2020   U7R-252       202       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            155.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : TRIGUEROS/JUGO/LUZ
+Licencia No.: 73357516
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    12/03/2020   G0B-604       139       Grave       237.00
+1)    04/02/2020   G0B-604       170       Grave       237.00
+2)    10/05/2020   J2K-636       103       Grave       237.00
+3)    13/10/2020   P1T-781       314       Muy_Grave   474.00
+4)    26/12/2020   J2K-636       134       Grave       237.00
+5)    27/08/2020   G0B-604       166       Grave       237.00
+6)    06/01/2020   J2K-636       112       Grave       237.00
+7)    14/03/2020   G0B-604       122       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZAVALETA/CORONADO/FELICITA_ELOISA
+Licencia No.: 48528209
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    20/07/2020   T9L-709       341       Muy_Grave   5925.00
+1)    26/05/2020   T9L-709       338       Muy_Grave   0.00
+2)    23/02/2020   T9L-709       153       Grave       237.00
+3)    11/03/2020   T9L-709       148       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : MENDOZA/ROMERO/VIRGINIA_YDALI
+Licencia No.: 69494747
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    25/09/2020   J8D-125       104       Grave       237.00
+1)    08/08/2020   J8D-125       146       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : VILCA/LEE/NESTOR_HUGO
+Licencia No.: 47844324
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    28/03/2020   F1H-328       208       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : SEDANO/RETAMOSO/ELIA_YOLANDA
+Licencia No.: 82870470
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    12/10/2020   C4O-436       118       Grave       237.00
+1)    03/03/2020   K0H-387       143       Grave       237.00
+2)    16/12/2020   C4O-436       158       Grave       237.00
+3)    07/07/2020   K0H-387       104       Grave       237.00
+4)    13/01/2020   K0H-387       103       Grave       237.00
+5)    23/09/2020   K0H-387       335       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARCA/LARRIEGA/LUCERO_YLIANA
+Licencia No.: 89941095
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/09/2020   P6T-244       140       Grave       237.00
+1)    12/08/2020   R8O-904       331       Muy_Grave   474.00
+2)    25/09/2020   R8O-904       320       Muy_Grave   711.00
+3)    06/01/2020   P6N-119       314       Muy_Grave   474.00
+4)    09/11/2020   R8O-904       337       Muy_Grave   0.00
+5)    23/07/2020   R8O-904       164       Grave       237.00
+6)    01/06/2020   P6T-244       314       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : MORALES/PASQUEL/KARIN_MARIBEL
+Licencia No.: 87495937
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    02/11/2020   M5G-669       304       Muy_Grave   3950.00
+1)    17/03/2020   L2H-207       158       Grave       237.00
+2)    15/10/2020   L2H-207       123       Grave       237.00
+3)    15/02/2020   M5G-669       155       Grave       237.00
+4)    07/01/2020   M5G-669       124       Grave       237.00
+5)    29/03/2020   L2H-207       150       Grave       237.00
+6)    19/05/2020   Z8C-558       160       Grave       237.00
+7)    25/08/2020   L2H-207       336       Muy_Grave   474.00
+8)    18/10/2020   Z8C-558       129       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : INGA/PALOMARES/ERIKA
+Licencia No.: 49927087
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    25/09/2020   G7B-252       116       Grave       237.00
+1)    15/03/2020   X3E-271       208       Leve        0.00
+2)    15/03/2020   X3E-271       208       Leve        0.00
+3)    15/03/2020   X3E-271       208       Leve        0.00
+4)    15/03/2020   X3E-271       208       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            312.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZEGARRA/PENA/CARMELA
+Licencia No.: 50201756
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/11/2020   K5K-595       310       Muy_Grave   474.00
+1)    22/08/2020   X8O-807       123       Grave       237.00
+2)    15/12/2020   K5K-595       105       Grave       237.00
+3)    28/06/2020   X8O-807       118       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : CAMACHO/PAIRAZAMAN/YDALI_LUCERO
+Licencia No.: 29989682
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    19/12/2020   W3T-571       335       Muy_Grave   474.00
+1)    19/04/2020   W3T-571       158       Grave       237.00
+2)    05/03/2020   B1J-773       310       Muy_Grave   474.00
+3)    17/09/2020   B1J-773       149       Grave       237.00
+4)    23/11/2020   B1J-773       322       Muy_Grave   474.00
+5)    27/07/2020   W3T-571       326       Muy_Grave   474.00
+6)    05/12/2020   W1V-221       162       Grave       237.00
+7)    12/03/2020   B1J-773       324       Muy_Grave   474.00
+8)    02/01/2020   B1J-773       206       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARRA/CARBAJAL/IVAN_FAUSTO
+Licencia No.: 64178096
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    22/11/2020   G3B-505       157       Grave       237.00
+1)    05/03/2020   B7V-643       204       Leve        0.00
+2)    05/03/2020   B7V-643       204       Leve        0.00
+3)    05/03/2020   B7V-643       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            154.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : GORDILLO/SANCHEZ/RONALD_JUVENAL
+Licencia No.: 69252518
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    25/10/2020   P7I-760       306       Muy_Grave   948.00
+1)    30/06/2020   Y0Y-415       151       Grave       237.00
+2)    22/06/2020   P7I-760       124       Grave       237.00
+3)    03/10/2020   P7I-760       132       Grave       237.00
+4)    30/08/2020   P7I-760       327       Muy_Grave   1975.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : POMAJAMBO/EGUSQUIZA/PAUL
+Licencia No.: 42956681
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    03/12/2020   L8Z-555       322       Muy_Grave   474.00
+1)    02/04/2020   E0L-862       143       Grave       237.00
+2)    25/12/2020   E0L-862       155       Grave       237.00
+3)    02/03/2020   A6D-661       332       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : PATINO/BOLANOS/DELICIA_VIRGINIA
+Licencia No.: 68303148
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    09/08/2020   H1W-140       115       Grave       237.00
+1)    19/04/2020   H1W-140       156       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : SUAREZ/CHANG/GLORIA
+Licencia No.: 87282766
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    24/10/2020   S1D-093       134       Grave       237.00
+1)    27/05/2020   S1D-093       323       Muy_Grave   474.00
+2)    14/12/2020   S1D-093       123       Grave       237.00
+3)    05/10/2020   S1D-093       105       Grave       237.00
+4)    11/05/2020   S1D-093       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : FUENTES/GAMARRA/HUGO
+Licencia No.: 73818744
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/10/2020   U5N-536       147       Grave       237.00
+1)    19/05/2020   U5N-536       332       Muy_Grave   474.00
+2)    06/06/2020   U5N-536       324       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : SERRANO/IBEROS/FRANCISCO
+Licencia No.: 53374153
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    08/08/2020   G6I-762       341       Muy_Grave   5925.00
+1)    24/06/2020   V7L-069       104       Grave       237.00
+2)    29/12/2020   G6I-762       328       Muy_Grave   474.00
+3)    24/08/2020   V7L-069       125       Grave       237.00
+4)    18/11/2020   R2T-476       165       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : RUIZ/ZEVALLOS/WALTER_RONY
+Licencia No.: 60784914
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/03/2020   C6Q-548       117       Grave       237.00
+1)    24/02/2020   P4Y-758       306       Muy_Grave   948.00
+2)    10/11/2020   P4Y-758       165       Grave       237.00
+3)    13/06/2020   P4Y-758       309       Muy_Grave   948.00
+4)    27/05/2020   A8J-929       201       Leve        0.00
+5)    27/05/2020   A8J-929       201       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            313.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : EPIQUEN/YEP/GUIDA_VICTORIA
+Licencia No.: 35671623
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    09/08/2020   K0T-350       307       Muy_Grave   948.00
+1)    05/09/2020   P2Q-870       147       Grave       237.00
+2)    21/05/2020   V4E-749       305       Muy_Grave   1975.00
+3)    03/04/2020   V4E-749       161       Grave       237.00
+4)    22/02/2020   V4E-749       328       Muy_Grave   474.00
+5)    08/08/2020   V4E-749       110       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : VILCARA/YALLICO/MAGALI
+Licencia No.: 44188994
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/03/2020   M0X-657       137       Grave       237.00
+1)    26/06/2020   M0X-657       159       Grave       237.00
+2)    04/08/2020   R2L-600       304       Muy_Grave   3950.00
+3)    19/10/2020   R2L-600       306       Muy_Grave   948.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/MARTEL/JAIME_MANUEL
+Licencia No.: 73972114
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    13/10/2020   A2F-518       102       Grave       237.00
+1)    19/11/2020   J2M-606       102       Grave       237.00
+2)    15/01/2020   A2F-518       131       Grave       237.00
+3)    09/12/2020   J2M-606       156       Grave       237.00
+4)    10/11/2020   A2F-518       107       Grave       237.00
+5)    28/11/2020   J2M-606       205       Leve        0.00
+6)    28/11/2020   J2M-606       205       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            155.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : CORTES/CORTEZ/RAUL_ALEX
+Licencia No.: 99950484
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    25/05/2020   Y9W-731       338       Muy_Grave   0.00
+1)    28/07/2020   Y9W-731       135       Grave       237.00
+2)    26/07/2020   Y6I-680       162       Grave       237.00
+3)    06/05/2020   Y6I-680       107       Grave       237.00
+4)    26/05/2020   Y6I-680       145       Grave       237.00
+5)    22/12/2020   Y9W-731       103       Grave       237.00
+6)    11/07/2020   X0R-946       326       Muy_Grave   474.00
+7)    29/03/2020   L8A-167       326       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIOS/ZAMORA/INES
+Licencia No.: 28820944
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    08/06/2020   H2K-127       104       Grave       237.00
+1)    24/09/2020   H2K-127       154       Grave       237.00
+2)    02/03/2020   H2K-127       138       Grave       237.00
+3)    15/05/2020   H2K-127       329       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARROYO/TOMASICHE/NATALIA
+Licencia No.: 71578206
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    23/06/2020   Y9F-491       322       Muy_Grave   474.00
+1)    21/08/2020   Y9F-491       104       Grave       237.00
+2)    10/07/2020   G7Z-721       155       Grave       237.00
+3)    03/08/2020   G7Z-721       133       Grave       237.00
+4)    17/02/2020   G7Z-721       120       Grave       237.00
+5)    02/08/2020   Y9F-491       338       Muy_Grave   0.00
+6)    01/11/2020   Y9F-491       313       Muy_Grave   474.00
+7)    31/10/2020   G7Z-721       318       Muy_Grave   474.00
+8)    30/09/2020   G7Z-721       332       Muy_Grave   474.00
+9)    24/11/2020   Y9F-491       137       Grave       237.00
+10)    30/08/2020   G7Z-721       315       Muy_Grave   474.00
+11)    02/11/2020   G7Z-721       324       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : AYALA/CASTILLO/ERICKA_OFELIA
+Licencia No.: 21621497
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    11/01/2020   R5I-860       136       Grave       237.00
+1)    03/05/2020   D6W-048       320       Muy_Grave   711.00
+2)    05/05/2020   R5I-860       120       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : RETAMOSO/SALAMANCA/DELIA_MARITZA
+Licencia No.: 30441350
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/03/2020   M9Z-497       158       Grave       237.00
+1)    19/02/2020   T7F-869       154       Grave       237.00
+2)    14/10/2020   Q6Q-335       153       Grave       237.00
+3)    04/02/2020   X0F-315       328       Muy_Grave   474.00
+4)    12/09/2020   M9Z-497       315       Muy_Grave   474.00
+5)    07/05/2020   M9Z-497       139       Grave       237.00
+6)    08/03/2020   X0F-315       331       Muy_Grave   474.00
+7)    07/05/2020   M9Z-497       125       Grave       237.00
+8)    16/04/2020   M9Z-497       154       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : LAU/ZAVALETA/YDALI_ELIA
+Licencia No.: 63291514
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    20/08/2020   Z1A-459       104       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/REYES/TATIANA
+Licencia No.: 70414420
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    26/02/2020   U5T-348       159       Grave       237.00
+1)    25/07/2020   U5T-348       317       Muy_Grave   474.00
+2)    28/11/2020   A7Y-514       201       Leve        0.00
+3)    28/11/2020   A7Y-514       201       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : AVILA/DEL_CASTILLO/ANNIE
+Licencia No.: 54447051
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    23/05/2020   G3Y-654       124       Grave       237.00
+1)    01/05/2020   G3Y-654       146       Grave       237.00
+2)    20/06/2020   G3Y-654       311       Muy_Grave   474.00
+3)    25/09/2020   D5W-773       165       Grave       237.00
+4)    31/05/2020   D5W-773       341       Muy_Grave   5925.00
+5)    29/10/2020   U5L-205       132       Grave       237.00
+6)    25/06/2020   D5W-773       130       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : TRIGUEROS/PORTUGAL/ARTURO_FAUSTO
+Licencia No.: 51395324
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : HENRIQUEZ/PAREDES/PAUL_RAFAEL
+Licencia No.: 32244565
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    07/07/2020   J1E-736       315       Muy_Grave   474.00
+1)    21/07/2020   J1E-736       131       Grave       237.00
+2)    02/08/2020   J1E-736       160       Grave       237.00
+3)    11/12/2020   K4F-319       108       Grave       237.00
+4)    05/02/2020   K4F-319       315       Muy_Grave   474.00
+5)    24/01/2020   K4F-319       321       Muy_Grave   474.00
+6)    19/11/2020   M8W-853       111       Grave       237.00
+7)    24/05/2020   J1E-736       101       Grave       237.00
+8)    21/10/2020   J1E-736       330       Muy_Grave   474.00
+9)    06/02/2020   W9L-468       125       Grave       237.00
+10)    13/11/2020   J1E-736       315       Muy_Grave   474.00
+11)    21/11/2020   J1E-736       149       Grave       237.00
+12)    14/07/2020   M8W-853       162       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            8          2528.00
+Infracciones muy graves:        0            0.00
+Conductor   : TOKESHI/GUEVARA/JAIME
+Licencia No.: 79641328
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/12/2020   L0L-653       142       Grave       237.00
+1)    10/11/2020   X8Q-687       338       Muy_Grave   0.00
+2)    11/01/2020   X8Q-687       103       Grave       237.00
+3)    17/02/2020   B4R-105       202       Leve        0.00
+4)    17/02/2020   B4R-105       202       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            314.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/ARGUEDAS/FELICITA_VALENTINA
+Licencia No.: 34976629
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    08/05/2020   J8B-303       150       Grave       237.00
+1)    06/01/2020   I0Y-720       320       Muy_Grave   711.00
+2)    07/07/2020   J8B-303       310       Muy_Grave   474.00
+3)    10/02/2020   I0Y-720       144       Grave       237.00
+4)    16/12/2020   I0Y-720       165       Grave       237.00
+5)    29/09/2020   J8B-303       206       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/FORZANI/DELIA
+Licencia No.: 75348522
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    03/08/2020   P5B-640       124       Grave       237.00
+1)    02/02/2020   X0D-655       142       Grave       237.00
+2)    14/08/2020   E1L-705       117       Grave       237.00
+3)    22/11/2020   E1L-705       164       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : LOZADA/IBEROS/HELI_BLANCA
+Licencia No.: 27268323
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : PRADO/VERA/JUAN
+Licencia No.: 88167677
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    01/07/2020   Y4Y-028       329       Muy_Grave   474.00
+1)    12/02/2020   O0C-616       338       Muy_Grave   0.00
+2)    25/05/2020   V7U-622       160       Grave       237.00
+3)    18/05/2020   Y4Y-028       316       Muy_Grave   474.00
+4)    18/06/2020   Y4Y-028       316       Muy_Grave   474.00
+5)    09/04/2020   O0C-616       118       Grave       237.00
+6)    04/01/2020   O0C-616       128       Grave       237.00
+7)    21/08/2020   B4C-100       202       Leve        0.00
+8)    21/08/2020   B4C-100       202       Leve        0.00
+9)    21/08/2020   B4C-100       202       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            154.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : MOSCOSO/LAURA/JANET_VALENTINA
+Licencia No.: 86429854
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    11/04/2020   M5U-987       154       Grave       237.00
+1)    15/04/2020   K1F-766       338       Muy_Grave   0.00
+2)    13/04/2020   K1F-766       103       Grave       237.00
+3)    10/10/2020   K1F-766       142       Grave       237.00
+4)    26/02/2020   M5U-987       104       Grave       237.00
+5)    08/11/2020   M5U-987       341       Muy_Grave   5925.00
+6)    05/07/2020   M5U-987       125       Grave       237.00
+7)    01/05/2020   K1F-766       333       Muy_Grave   474.00
+8)    10/04/2020   K1F-766       306       Muy_Grave   948.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORENCIO/CORONADO/ALONSO
+Licencia No.: 67185679
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    16/05/2020   F1F-571       109       Grave       237.00
+1)    22/12/2020   S7F-983       312       Muy_Grave   474.00
+2)    26/08/2020   S7F-983       335       Muy_Grave   474.00
+3)    15/03/2020   I2P-193       127       Grave       237.00
+4)    10/03/2020   S7F-983       122       Grave       237.00
+5)    19/09/2020   S7F-983       315       Muy_Grave   474.00
+6)    21/04/2020   S7F-983       163       Grave       237.00
+7)    30/04/2020   F1F-571       107       Grave       237.00
+8)    28/02/2020   S7F-983       316       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : NORABUENA/MOYA/HECTOR
+Licencia No.: 80457845
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    18/04/2020   Z5G-762       335       Muy_Grave   474.00
+1)    06/03/2020   Z5G-762       109       Grave       237.00
+2)    09/11/2020   Z5G-762       101       Grave       237.00
+3)    05/02/2020   M7F-612       150       Grave       237.00
+4)    12/02/2020   W0C-131       104       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORIAN/CUBA/CHRISTIAN
+Licencia No.: 24859596
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    07/09/2020   A8P-118       331       Muy_Grave   474.00
+1)    29/12/2020   A8P-118       153       Grave       237.00
+2)    02/11/2020   B8B-326       312       Muy_Grave   474.00
+3)    05/05/2020   L6D-758       329       Muy_Grave   474.00
+4)    26/02/2020   A8P-118       101       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : LUNA/VARGAS/WALDEMAR
+Licencia No.: 39544560
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    11/01/2020   N4J-043       313       Muy_Grave   474.00
+1)    07/07/2020   Y0K-784       332       Muy_Grave   474.00
+2)    19/07/2020   Y0K-784       341       Muy_Grave   5925.00
+3)    19/05/2020   Y0K-784       115       Grave       237.00
+4)    12/11/2020   N4J-043       316       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : IPARRAGUIRRE/PEREZ/NICOLAS
+Licencia No.: 90467829
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    06/10/2020   X8U-894       105       Grave       237.00
+1)    22/10/2020   K4H-445       118       Grave       237.00
+2)    10/10/2020   K4H-445       145       Grave       237.00
+3)    16/09/2020   X8U-894       118       Grave       237.00
+4)    17/07/2020   K4H-445       313       Muy_Grave   474.00
+5)    29/11/2020   C9H-661       128       Grave       237.00
+6)    05/02/2020   H1R-953       136       Grave       237.00
+7)    11/10/2020   H1R-953       335       Muy_Grave   474.00
+8)    23/06/2020   H1R-953       129       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : HERNANDEZ/CORRALES/GUILLERMO
+Licencia No.: 15115705
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : ARCA/SANCHEZ/MAGALI_BEATRIZ
+Licencia No.: 73567806
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    25/11/2020   W9Z-281       103       Grave       237.00
+1)    21/09/2020   Q9D-870       321       Muy_Grave   474.00
+2)    25/01/2020   Q9D-870       105       Grave       237.00
+3)    15/09/2020   W9Z-281       105       Grave       237.00
+4)    22/01/2020   Q9D-870       305       Muy_Grave   1975.00
+5)    23/01/2020   W9Z-281       341       Muy_Grave   5925.00
+6)    11/07/2020   A7Y-833       334       Muy_Grave   474.00
+7)    02/11/2020   Q9D-870       118       Grave       237.00
+8)    21/12/2020   A7Y-833       164       Grave       237.00
+9)    23/07/2020   W9Z-281       319       Muy_Grave   474.00
+10)    24/01/2020   E2D-493       309       Muy_Grave   948.00
+11)    14/04/2020   Q9D-870       129       Grave       237.00
+12)    23/10/2020   Q9D-870       207       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            315.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : JUSTINO/MARTINEZ/ENRIQUE
+Licencia No.: 81485316
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    24/12/2020   J5T-691       128       Grave       237.00
+1)    17/04/2020   J5T-691       319       Muy_Grave   474.00
+2)    08/01/2020   J5T-691       324       Muy_Grave   474.00
+3)    04/11/2020   J5T-691       138       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : RIVERO/CORTEZ/WILVER_ALFONSO
+Licencia No.: 49428502
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    09/04/2020   C0A-114       125       Grave       237.00
+1)    01/03/2020   C0A-114       126       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : CUEVA/FUENTES/CINTHIA_DELIA
+Licencia No.: 12270502
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    13/04/2020   P7T-999       150       Grave       237.00
+1)    14/04/2020   O1C-880       102       Grave       237.00
+2)    20/11/2020   P7T-999       111       Grave       237.00
+3)    25/03/2020   Y5F-449       332       Muy_Grave   474.00
+4)    27/12/2020   O1C-880       332       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : HIJAR/LAM/MARTIN
+Licencia No.: 29833157
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/04/2020   I5K-310       307       Muy_Grave   948.00
+1)    06/04/2020   I5K-310       157       Grave       237.00
+2)    20/05/2020   I9F-484       159       Grave       237.00
+3)    05/06/2020   S2N-896       109       Grave       237.00
+4)    01/02/2020   I5K-310       312       Muy_Grave   474.00
+5)    04/10/2020   I9F-484       302       Muy_Grave   1975.00
+6)    29/01/2020   S2N-896       134       Grave       237.00
+7)    03/09/2020   I5K-310       110       Grave       237.00
+8)    14/05/2020   S2N-896       102       Grave       237.00
+9)    17/03/2020   I5K-310       319       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : WONG/MAEIREIZO/BEATRIZ
+Licencia No.: 38862473
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    07/08/2020   I4B-541       135       Grave       237.00
+1)    31/03/2020   S6Y-726       129       Grave       237.00
+2)    01/06/2020   I4B-541       108       Grave       237.00
+3)    22/12/2020   S6Y-726       141       Grave       237.00
+4)    29/03/2020   S6Y-726       325       Muy_Grave   474.00
+5)    20/08/2020   K3B-165       318       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZARATE/PEREZ/ALEXANDER
+Licencia No.: 12858682
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    20/12/2020   T5L-371       101       Grave       237.00
+1)    27/02/2020   T5L-371       318       Muy_Grave   474.00
+2)    11/03/2020   T5L-371       308       Muy_Grave   948.00
+3)    22/04/2020   T5L-371       310       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : ESCALANTE/ROJAS/INES_ADRIA
+Licencia No.: 86718074
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    12/03/2020   Q6I-941       102       Grave       237.00
+1)    09/09/2020   Q6I-941       141       Grave       237.00
+2)    04/09/2020   L4O-783       301       Muy_Grave   3950.00
+3)    27/08/2020   L4O-783       307       Muy_Grave   948.00
+4)    17/10/2020   L4O-783       107       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : GONZALES/GAMARRA/GIOVANA_KARINA
+Licencia No.: 54665716
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    05/06/2020   D2V-055       151       Grave       237.00
+1)    22/02/2020   D2V-055       130       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : ZAVALETA/VILCA/ERICKA_ELEONOR
+Licencia No.: 36079131
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    26/01/2020   I0W-872       166       Grave       237.00
+1)    10/07/2020   V4S-057       328       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARRA/MONTERO/JAIR
+Licencia No.: 31205866
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    24/02/2020   U6A-456       166       Grave       237.00
+1)    05/04/2020   U6A-456       134       Grave       237.00
+2)    17/02/2020   U6A-456       163       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEE/SERRANO/ROSARIO
+Licencia No.: 12443643
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    14/12/2020   R8H-409       156       Grave       237.00
+1)    30/10/2020   R8H-409       321       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : ALFARO/ALFARO/ERICK_BRUNO
+Licencia No.: 44346371
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    15/12/2020   S4J-282       137       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : RONDON/CABRERA/ALEXANDER_ADOLFO
+Licencia No.: 25518120
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    14/07/2020   E1J-798       118       Grave       237.00
+1)    04/06/2020   E1J-798       337       Muy_Grave   0.00
+2)    06/12/2020   F2C-703       205       Leve        0.00
+3)    06/12/2020   F2C-703       205       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : BRAVO/CORTES/JANET_FLOR
+Licencia No.: 15559308
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    31/08/2020   T8F-368       148       Grave       237.00
+1)    08/11/2020   T8F-368       153       Grave       237.00
+2)    07/03/2020   X6O-905       133       Grave       237.00
+3)    09/10/2020   T8F-368       149       Grave       237.00
+4)    09/03/2020   X6O-905       309       Muy_Grave   948.00
+5)    21/06/2020   X6O-905       110       Grave       237.00
+6)    13/08/2020   S3L-803       105       Grave       237.00
+7)    21/08/2020   S3L-803       305       Muy_Grave   1975.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : SALAMANCA/VEGA/VIRGINIA_MARTHA
+Licencia No.: 30046639
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    13/04/2020   S3F-021       146       Grave       237.00
+1)    30/03/2020   L8F-459       144       Grave       237.00
+2)    15/09/2020   P6I-223       204       Leve        0.00
+3)    15/09/2020   P6I-223       204       Leve        0.00
+4)    15/09/2020   P6I-223       204       Leve        0.00
+5)    15/09/2020   P6I-223       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            312.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : PENA/SUAREZ/GLENDA_MARGOT
+Licencia No.: 39244942
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    15/07/2020   N5Y-450       103       Grave       237.00
+1)    19/08/2020   N5Y-450       136       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : EPIQUEN/AVILA/ENRIQUE
+Licencia No.: 81528434
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    21/08/2020   D6F-465       312       Muy_Grave   474.00
+1)    26/01/2020   B3U-020       309       Muy_Grave   948.00
+2)    19/06/2020   D6F-465       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : DIAZ/MOYA/ELIA_ANNIE
+Licencia No.: 35683701
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    12/09/2020   D5W-953       328       Muy_Grave   474.00
+1)    16/05/2020   D5W-953       105       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : ESPINOZA/CHANG/SHIRLEY
+Licencia No.: 43454884
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    24/07/2020   P6Z-734       150       Grave       237.00
+1)    17/10/2020   P6Z-734       152       Grave       237.00
+2)    19/09/2020   G0F-080       119       Grave       237.00
+3)    06/08/2020   P6Z-734       324       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : VALDERRAMA/BERROCAL/EVERT
+Licencia No.: 96693273
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    09/10/2020   C0G-556       135       Grave       237.00
+1)    03/10/2020   C0G-556       120       Grave       237.00
+2)    30/12/2020   C0G-556       165       Grave       237.00
+3)    22/02/2020   C0G-556       123       Grave       237.00
+4)    24/07/2020   F3R-138       135       Grave       237.00
+5)    28/10/2020   F3R-138       302       Muy_Grave   1975.00
+6)    26/05/2020   B9X-420       148       Grave       237.00
+7)    24/12/2020   C0G-556       312       Muy_Grave   474.00
+8)    15/08/2020   A6K-820       141       Grave       237.00
+9)    30/04/2020   F3R-138       147       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            8          2528.00
+Infracciones muy graves:        0            0.00
+Conductor   : INFANTES/MERCADO/LUIS_WALDEMAR
+Licencia No.: 64532449
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/07/2020   J0V-437       159       Grave       237.00
+1)    27/10/2020   J0V-437       204       Leve        0.00
+2)    27/10/2020   J0V-437       204       Leve        0.00
+3)    27/10/2020   J0V-437       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             2            312.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : JAUREGUI/DEL_CASTILLO/VICTOR_RICARDO
+Licencia No.: 77367073
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    17/10/2020   C2S-070       334       Muy_Grave   474.00
+1)    14/05/2020   C2S-070       129       Grave       237.00
+2)    13/07/2020   W4W-684       141       Grave       237.00
+3)    08/05/2020   H9A-097       310       Muy_Grave   474.00
+4)    30/05/2020   N7K-403       153       Grave       237.00
+5)    16/05/2020   W4W-684       140       Grave       237.00
+6)    10/01/2020   N7K-403       104       Grave       237.00
+7)    07/12/2020   C2S-070       143       Grave       237.00
+8)    20/02/2020   N7K-403       329       Muy_Grave   474.00
+9)    20/12/2020   C2S-070       103       Grave       237.00
+10)    18/07/2020   C2S-070       327       Muy_Grave   1975.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : CERNA/CERNA/CINTHIA
+Licencia No.: 81799482
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    29/06/2020   V7P-711       338       Muy_Grave   0.00
+1)    30/08/2020   E3U-768       118       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
+Conductor   : QUIROGA/HERNANDEZ/SILVANA_ZKENIA
+Licencia No.: 13628871
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    14/05/2020   F3E-797       131       Grave       237.00
+1)    19/01/2020   F3E-797       142       Grave       237.00
+2)    19/03/2020   F3E-797       302       Muy_Grave   1975.00
+3)    13/01/2020   F3E-797       302       Muy_Grave   1975.00
+4)    21/03/2020   F3E-797       108       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : CONTRERAS/CHANG/JOHANA_CINTHIA
+Licencia No.: 79672079
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    15/11/2020   R7U-941       203       Leve        0.00
+1)    15/11/2020   R7U-941       203       Leve        0.00
+2)    15/11/2020   R7U-941       203       Leve        0.00
+3)    15/11/2020   R7U-941       203       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            153.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : SALAMANCA/CABRERA/NESTOR_EVERT
+Licencia No.: 19963454
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    30/01/2020   X9O-440       307       Muy_Grave   948.00
+1)    21/08/2020   D9A-711       330       Muy_Grave   474.00
+2)    06/10/2020   H8A-390       336       Muy_Grave   474.00
+3)    22/09/2020   D9A-711       150       Grave       237.00
+4)    24/01/2020   D9A-711       314       Muy_Grave   474.00
+5)    26/06/2020   X9O-440       131       Grave       237.00
+6)    25/02/2020   X9O-440       137       Grave       237.00
+7)    15/06/2020   H8A-390       109       Grave       237.00
+8)    24/09/2020   X9O-440       334       Muy_Grave   474.00
+9)    19/10/2020   X9O-440       147       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : CHAVEZ/BERROCAL/JOHAN
+Licencia No.: 51929951
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            0          0.00
+Infracciones muy graves:        0            0.00
+Conductor   : TANG/MOSCOSO/JOHANA
+Licencia No.: 74325123
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    01/03/2020   V9F-655       121       Grave       237.00
+1)    01/09/2020   H0E-855       309       Muy_Grave   948.00
+2)    15/08/2020   V9F-655       103       Grave       237.00
+3)    18/02/2020   V9F-655       158       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : SAAVEDRA/GONZALES/WILMER
+Licencia No.: 47528229
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    13/06/2020   U0N-343       161       Grave       237.00
+1)    05/12/2020   U0N-343       146       Grave       237.00
+2)    27/11/2020   G8O-154       158       Grave       237.00
+3)    02/03/2020   G8O-154       312       Muy_Grave   474.00
+4)    18/05/2020   T8Y-354       130       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEYVA/SAM/DIANA_DELIA
+Licencia No.: 50200823
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    14/04/2020   Q6C-943       315       Muy_Grave   474.00
+1)    25/02/2020   R0P-255       306       Muy_Grave   948.00
+2)    25/06/2020   H1E-399       119       Grave       237.00
+3)    20/03/2020   R0P-255       157       Grave       237.00
+4)    29/10/2020   H1E-399       103       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : FLORIAN/VALDERRAMA/JOSE
+Licencia No.: 37080813
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    04/02/2020   P7E-145       149       Grave       237.00
+1)    13/05/2020   O9W-355       204       Leve        0.00
+2)    13/05/2020   O9W-355       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            155.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : YEP/PRECIADO/RICHARD
+Licencia No.: 16136330
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    14/07/2020   E3U-231       126       Grave       237.00
+1)    17/09/2020   E3U-231       108       Grave       237.00
+2)    13/06/2020   E3U-231       314       Muy_Grave   474.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : VEGA/SORIA/HENRRY
+Licencia No.: 19568447
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    20/08/2020   D8R-235       137       Grave       237.00
+1)    21/10/2020   O7W-705       138       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            2          632.00
+Infracciones muy graves:        0            0.00
+Conductor   : EGUSQUIZA/BERROCAL/DORIS_NANCY
+Licencia No.: 82031355
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    16/11/2020   Z5D-724       150       Grave       237.00
+1)    03/01/2020   Z5D-724       305       Muy_Grave   1975.00
+2)    26/03/2020   H6X-124       148       Grave       237.00
+3)    19/09/2020   Z5D-724       319       Muy_Grave   474.00
+4)    20/09/2020   H6X-124       208       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            156.00
+Infracciones graves:            4          1264.00
+Infracciones muy graves:        0            0.00
+Conductor   : CARBAJAL/SALAS/MAGDA_ZKENIA
+Licencia No.: 52003695
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    30/09/2020   H8S-849       124       Grave       237.00
+1)    17/03/2020   H8S-849       141       Grave       237.00
+2)    21/09/2020   H8S-849       122       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : LEYVA/LANDEO/NANCY_SONIA
+Licencia No.: 34248357
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    10/01/2020   H4R-733       313       Muy_Grave   474.00
+1)    20/12/2020   U0T-459       320       Muy_Grave   711.00
+2)    15/06/2020   R7N-062       155       Grave       237.00
+3)    02/07/2020   H4R-733       132       Grave       237.00
+4)    26/04/2020   U0T-459       149       Grave       237.00
+5)    08/05/2020   S5E-231       314       Muy_Grave   474.00
+6)    01/05/2020   R7N-062       314       Muy_Grave   474.00
+7)    22/07/2020   H4R-733       328       Muy_Grave   474.00
+8)    29/02/2020   S5E-231       158       Grave       237.00
+9)    25/05/2020   H4R-733       319       Muy_Grave   474.00
+10)    21/02/2020   U0T-459       112       Grave       237.00
+11)    14/02/2020   H4R-733       151       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            6          1896.00
+Infracciones muy graves:        0            0.00
+Conductor   : FIGUEROA/MEDINA/MADELEINE
+Licencia No.: 27864822
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    08/03/2020   S3D-133       125       Grave       237.00
+1)    22/05/2020   T9U-338       204       Leve        0.00
+2)    22/05/2020   T9U-338       204       Leve        0.00
+3)    22/05/2020   T9U-338       204       Leve        0.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             3            470.00
+Infracciones graves:            5          1580.00
+Infracciones muy graves:        0            0.00
+Conductor   : VIZCARDO/SINCHE/MARIBEL
+Licencia No.: 85501710
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    29/09/2020   Z4K-431       105       Grave       237.00
+1)    25/02/2020   Z4K-431       157       Grave       237.00
+2)    22/10/2020   Z4K-431       331       Muy_Grave   474.00
+3)    05/04/2020   N2C-590       320       Muy_Grave   711.00
+4)    09/10/2020   N2C-590       129       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            3          948.00
+Infracciones muy graves:        0            0.00
+Conductor   : CABRERA/TORO/FANNY
+Licencia No.: 16925690
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    27/12/2020   R7N-113       332       Muy_Grave   474.00
+1)    14/08/2020   R7N-113       143       Grave       237.00
+2)    10/07/2020   B4I-014       128       Grave       237.00
+3)    12/02/2020   F3F-478       128       Grave       237.00
+4)    11/04/2020   R7N-113       145       Grave       237.00
+5)    22/07/2020   R7N-113       136       Grave       237.00
+6)    27/11/2020   F3F-478       107       Grave       237.00
+7)    14/02/2020   R7N-113       104       Grave       237.00
+8)    17/08/2020   R7N-113       308       Muy_Grave   948.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             0            0.00
+Infracciones graves:            7          2212.00
+Infracciones muy graves:        0            0.00
+Conductor   : CASANOVA/ZEGARRA/MARITZA
+Licencia No.: 52002275
+=============================================================
+Infracciones cometidas:
+-------------------------------------------------------------
+No.Fecha   Placa        Infraccion      Gravedad   Multa    
+0)    23/03/2020   J8N-930       320       Muy_Grave   711.00
+1)    05/02/2020   C0S-417       149       Grave       237.00
+=============================================================
+                             Cantidad     Total
+Infracciones leves:             1            157.00
+Infracciones graves:            1          316.00
+Infracciones muy graves:        0            0.00
