@@ -1,0 +1,101 @@
+NombreCredito
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Analisis de Datos                                           3.00
+Analisis de Datos                                           3.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Analisis de Datos                                           3.00
+Algoritmia                                                  3.75
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Algoritmia                                                  3.75
+Aplicaciones de las Ciencias de la Computacion              3.50
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Algoritmia                                                  3.75
+Algoritmia                                                  3.75
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Aplicaciones de las Ciencias de la Computacion              3.50
+Aplicaciones de las Ciencias de la Computacion              3.50
+Analisis de Datos                                           3.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Analisis de Datos                                           3.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 1                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 2                                  5.00
+Algoritmia                                                  3.75
+Algoritmia                                                  3.75
+Algoritmia                                                  3.75
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 2                                  5.00
+Lenguaje de Programacion 1                                  5.00
+Aplicaciones de las Ciencias de la Computacion              3.50
+Algoritmia                                                  3.75
+Lenguaje de Programacion 2                                  5.00
+Algoritmia                                                  3.75
+Lenguaje de Programacion 1                                  5.00
+Fundamentos de Programacion                                 4.00

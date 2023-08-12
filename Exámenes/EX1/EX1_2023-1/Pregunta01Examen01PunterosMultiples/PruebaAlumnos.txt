@@ -1,0 +1,79 @@
+Codigo      Codigo    Escala Porcentaje    Nombre                               Modalidad
+202123703   202123703   5    30            GAMARRA TABORI PAUL RONAL               S
+202119153   202119153   4    0             MENDOZA ARIAS HENRY                     Pª}
+202113758   202113758   1    0             SOMA INGA DIALY                         P
+202123373   202123373   3    0             ESCALANTE RARAZ BLANCA                  P
+202127660   202127660   4    25            CHANG ARGUEDAS HENRY ANTONIO            S
+202112598   202112598   1    20            MORI ZAVALETA LUZ LOURDES               S
+202224569   202224569   5    0             RIVERA PASQUEL OFELIA CINTHIA           P
+202214628   202214628   5    0             PALOMARES GUEVARA KARINA                P
+202121791   202121791   1    25            GONZALES VELASQUEZ WALTER               S
+202224918   202224918   5    50            PORTUGAL GUEVARA HELI JOHANA            S
+202115802   202115802   5    0             MINAYA AMEZQUITA RHONY JAIME            P
+202318072   202318072   3    0             RIVERA MONTERO GLORIA OFELIA            V
+202112887   202112887   2    50            CABRERA AGUERO JESSICA                  S
+202313065   202313065   2    0             RETT SERRANO RAFAEL RHONY               V
+202129611   202129611   2    0             MALDONADO CORREA LUCERO CAROLA          P
+202214712   202214712   2    0             CASANOVA CHUMPITAZ ALONSO               V
+202126490   202126490   2    50            TAVERA CORREA FERNANDO                  S
+202313249   202313249   3    0             NORABUENA PAIRAZAMAN JULIAN             P
+202114739   202114739   4    50            VELASQUEZ CANO FERNANDO                 S
+202319927   202319927   3    0             PATINO MEZA MANUEL                      V
+202221155   202221155   5    0             CORRALES ZIMIC JAIME DANIEL             P
+202315724   202315724   4    50            VEGA SAENZ ALEXANDER RICHARD            S
+202125775   202125775   3    50            PRADO PAREDES JUAN                      S
+202315643   202315643   2    0             IBEROS ZAMBRANO GONZALO                 P
+202127344   202127344   3    0             DEL_POZO QUIO CESAR                     V
+202318320   202318320   5    0             NORABUENA RIVERA GLORIA YESSICA         V
+202315318   202315318   3    0             FLORENCIO LAM PAUL RONALD               P
+202227316   202227316   2    30            RIVERO RETT RONY ANTONIO                S
+202225778   202225778   2    50            MUNOZ ZIMIC ROCIO DELICIA               S
+202313754   202313754   3    30            MALCA SAAVEDRA DORIS MILAGROS           S
+202217030   202217030   3    0             LUNA POLO SONIA                         V
+202214204   202214204   4    50            DIAZ IBEROS GLENDA YESSICA              S
+202318383   202318383   3    0             GORDILLO BOLANOS ARTURO GONZALO         P
+202122715   202122715   1    0             VARGAS ZARATE VALENTINA                 V
+202213745   202213745   1    0             CARO QUISPE JORGE                       V
+202113223   202113223   4    30            DIAZ SEDANO YVONNE                      S
+202211325   202211325   3    0             MORI ARROYO SHIRLEY                     P
+202315763   202315763   2    30            CORREA AGUIRRE MOISES                   S
+202129785   202129785   4    50            FARFAN RARAZ WALDEMAR                   S
+202216995   202216995   5    0             LARRIEGA ARCA ISABEL MADELEINE          P
+202115400   202115400   1    30            SANTISTEBAN JUGO NESTOR                 S
+202311247   202311247   5    0             SERRANO JOLAY RHONY ROLANDO             P
+202122742   202122742   5    0             ZAVALETA LOPEZ KARIN VIRGINIA           P
+202312000   202312000   4    0             LANDA CUEVA JOHAN                       V
+202313122   202313122   2    0             CUBA NARVAEZ PAUL JOHN                  P
+202219773   202219773   5    50            SANCHEZ CUBA NATALIA ESTEFANIA          S
+202316015   202316015   3    0             ALFARO FUENTES MAGDA                    V
+202116038   202116038   4    25            SAONA ARIAS ALBERTO                     S
+202114285   202114285   2    25            CHAVARRI ALDAVE FERNANDO MARTIN         S
+202316517   202316517   2    0             ZEGARRA CUBA ANTONIO                    P
+202119958   202119958   3    0             QUISPE BERROCAL ANTONIO ALVARO DANIEL   P
+202111260   202111260   2    0             GORDILLO CASTRO RONAL                   P
+202129735   202129735   5    50            MENDOZA CORREA JESUS CHRISTIAN          S
+202215067   202215067   4    50            JAUREGUI AGUERO HECTOR HENRY            S
+202319103   202319103   4    0             LEE VASQUEZ JENNY                       V
+202111935   202111935   3    0             GUZMAN BARROS FELIPE                    V
+202226249   202226249   1    30            WONG GALLO JANET MADELEINE              S
+202312501   202312501   2    0             CORTES REYES MARIBEL                    V
+202125607   202125607   2    0             POZO JUGO ISABEL                        P
+202215494   202215494   2    30            DE_LA_HAZA CASTRO EMIGDIO JOHNNY        S
+202219437   202219437   4    25            ZIMIC PAREDES SHIRLEY                   S
+202116963   202116963   4    30            CORTEZ LEIVA SURAMI SILVIA              S
+202113179   202113179   3    0             PEREZ PEREZ BIANCA PATRICIA             V
+202123402   202123402   1    0             VIZCARDO MORI LUCERO ZKENIA             P
+202223508   202223508   5    50            AURIS JOLAY HENRY EDILBERTO             S
+202311748   202311748   4    0             PATINO FUENTES MILAGROS MARIELLA        V
+202226929   202226929   2    50            BOLANOS FUENTES JORGE                   S
+202318318   202318318   1    50            TOKESHI GONZALES MARTIN                 S
+202312360   202312360   5    50            VILCA BARRERA CESAR EDGAR               S
+202312050   202312050   4    0             LOYOLA HIJAR NICOLAS OSCAR              V
+202314919   202314919   5    50            CORTES CALIXTO ROSARIO                  S
+202119707   202119707   2    30            MIRANDA LARRIEGA JUVENAL NESTOR         S
+202216453   202216453   3    25            MINAYA VIZCARRA JUVENAL                 S
+202313627   202313627   1    0             CHAVEZ CARO YVONNE                      V
+202129719   202129719   2    0             MAEIREIZO VASQUEZ LOURDES SILVIA        P
+202222447   202222447   1    0             VILCA JUSTINO MELVIN                    V
+202111397   202111397   2    50            ZEVALLOS PRADO RICARDO                  S
+202315527   202315527   3    30            JUSTINO COLLADO LUZ DELICIA             S

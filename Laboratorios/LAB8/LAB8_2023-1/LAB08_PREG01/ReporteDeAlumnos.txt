@@ -1,0 +1,86 @@
+Codigo         Nombre                                Escala      Total A.   Descuento   Total M.
+====================================================================================================
+202123703      GAMARRA/TABORI/PAUL-RONAL               5         9336.60      30.00     13338.00
+202127660      CHANG/ARGUEDAS/HENRY-ANTONIO            4         8350.50      25.00     11134.00
+202112598      MORI/ZAVALETA/LUZ-LOURDES               1         4516.80      20.00     5646.00
+202121791      GONZALES/VELASQUEZ/WALTER               1         4234.50      25.00     5646.00
+202224918      PORTUGAL/GUEVARA/HELI-JOHANA            5         6669.00      50.00     13338.00
+202112887      CABRERA/AGUERO/JESSICA                  2         3620.00      50.00     7240.00
+202126490      TAVERA/CORREA/FERNANDO                  2         3620.00      50.00     7240.00
+202114739      VELASQUEZ/CANO/FERNANDO                 4         5567.00      50.00     11134.00
+202315724      VEGA/SAENZ/ALEXANDER-RICHARD            4         5567.00      50.00     11134.00
+202125775      PRADO/PAREDES/JUAN                      3         4542.00      50.00     9084.00
+202227316      RIVERO/RETT/RONY-ANTONIO                2         5068.00      30.00     7240.00
+202225778      MUNOZ/ZIMIC/ROCIO-DELICIA               2         3620.00      50.00     7240.00
+202313754      MALCA/SAAVEDRA/DORIS-MILAGROS           3         6358.80      30.00     9084.00
+202214204      DIAZ/IBEROS/GLENDA-YESSICA              4         5567.00      50.00     11134.00
+202113223      DIAZ/SEDANO/YVONNE                      4         7793.80      30.00     11134.00
+202315763      CORREA/AGUIRRE/MOISES                   2         5068.00      30.00     7240.00
+202129785      FARFAN/RARAZ/WALDEMAR                   4         5567.00      50.00     11134.00
+202115400      SANTISTEBAN/JUGO/NESTOR                 1         3952.20      30.00     5646.00
+202219773      SANCHEZ/CUBA/NATALIA-ESTEFANIA          5         6669.00      50.00     13338.00
+202116038      SAONA/ARIAS/ALBERTO                     4         8350.50      25.00     11134.00
+202114285      CHAVARRI/ALDAVE/FERNANDO-MARTIN         2         5430.00      25.00     7240.00
+202129735      MENDOZA/CORREA/JESUS-CHRISTIAN          5         6669.00      50.00     13338.00
+202215067      JAUREGUI/AGUERO/HECTOR-HENRY            4         5567.00      50.00     11134.00
+202226249      WONG/GALLO/JANET-MADELEINE              1         3952.20      30.00     5646.00
+202215494      DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNY        2         5068.00      30.00     7240.00
+202219437      ZIMIC/PAREDES/SHIRLEY                   4         8350.50      25.00     11134.00
+202116963      CORTEZ/LEIVA/SURAMI-SILVIA              4         7793.80      30.00     11134.00
+202223508      AURIS/JOLAY/HENRY-EDILBERTO             5         6669.00      50.00     13338.00
+202226929      BOLANOS/FUENTES/JORGE                   2         3620.00      50.00     7240.00
+202318318      TOKESHI/GONZALES/MARTIN                 1         2823.00      50.00     5646.00
+202312360      VILCA/BARRERA/CESAR-EDGAR               5         6669.00      50.00     13338.00
+202314919      CORTES/CALIXTO/ROSARIO                  5         6669.00      50.00     13338.00
+202119707      MIRANDA/LARRIEGA/JUVENAL-NESTOR         2         5068.00      30.00     7240.00
+202216453      MINAYA/VIZCARRA/JUVENAL                 3         6813.00      25.00     9084.00
+202111397      ZEVALLOS/PRADO/RICARDO                  2         3620.00      50.00     7240.00
+202315527      JUSTINO/COLLADO/LUZ-DELICIA             3         6358.80      30.00     9084.00
+
+Codigo         Nombre                                Escala      Total A.     Recargo   Total M.
+====================================================================================================
+202119153      MENDOZA/ARIAS/HENRY                     5         12247.40     10.00     11134.00
+202113758      SOMA/INGA/DIALY                         4         6210.60      10.00     5646.00
+202123373      ESCALANTE/RARAZ/BLANCA                  1         10900.80     20.00     9084.00
+202224569      RIVERA/PASQUEL/OFELIA-CINTHIA           1         14671.80     10.00     13338.00
+202214628      PALOMARES/GUEVARA/KARINA                5         16005.60     20.00     13338.00
+202115802      MINAYA/AMEZQUITA/RHONY-JAIME            2         16005.60     20.00     13338.00
+202129611      MALDONADO/CORREA/LUCERO-CAROLA          2         7964.00      10.00     7240.00
+202313249      NORABUENA/PAIRAZAMAN/JULIAN             4         9992.40      10.00     9084.00
+202221155      CORRALES/ZIMIC/JAIME-DANIEL             4         16005.60     20.00     13338.00
+202315643      IBEROS/ZAMBRANO/GONZALO                 3         7964.00      10.00     7240.00
+202315318      FLORENCIO/LAM/PAUL-RONALD               2         9992.40      10.00     9084.00
+202318383      GORDILLO/BOLANOS/ARTURO-GONZALO         2         10900.80     20.00     9084.00
+202211325      MORI/ARROYO/SHIRLEY                     3         10900.80     20.00     9084.00
+202216995      LARRIEGA/ARCA/ISABEL-MADELEINE          4         14671.80     10.00     13338.00
+202311247      SERRANO/JOLAY/RHONY-ROLANDO             4         14671.80     10.00     13338.00
+202122742      ZAVALETA/LOPEZ/KARIN-VIRGINIA           2         14671.80     10.00     13338.00
+202313122      CUBA/NARVAEZ/PAUL-JOHN                  4         8688.00      20.00     7240.00
+202316517      ZEGARRA/CUBA/ANTONIO                    1         7964.00      10.00     7240.00
+202119958      QUISPE/BERROCAL/ANTONIO-ALVARO-DANIEL   5         9992.40      10.00     9084.00
+202111260      GORDILLO/CASTRO/RONAL                   4         8688.00      20.00     7240.00
+202125607      POZO/JUGO/ISABEL                        2         7964.00      10.00     7240.00
+202123402      VIZCARDO/MORI/LUCERO-ZKENIA             5         6775.20      20.00     5646.00
+202129719      MAEIREIZO/VASQUEZ/LOURDES-SILVIA        4         7964.00      10.00     7240.00
+
+Codigo         Nombre                                Escala      Total A.    Licencia   Total M.
+====================================================================================================
+202318072      RIVERA/MONTERO/GLORIA-OFELIA            3         11234.00     323R33-2  11134.00
+202313065      RETT/SERRANO/RAFAEL-RHONY               2         5746.00      2193T9-2  5646.00
+202214712      CASANOVA/CHUMPITAZ/ALONSO               2         9184.00      7883G2-4  9084.00
+202319927      PATINO/MEZA/MANUEL                      3         13438.00     872193-E  13338.00
+202127344      DEL_POZO/QUIO/CESAR                     3         13438.00     71293-E2  13338.00
+202318320      NORABUENA/RIVERA/GLORIA-YESSICA         5         13438.00     7120L-23  13338.00
+202217030      LUNA/POLO/SONIA                         3         7340.00      82612-3R  7240.00
+202122715      VARGAS/ZARATE/VALENTINA                 1         9184.00      2923-D-3  9084.00
+202213745      CARO/QUISPE/JORGE                       1         13438.00     8124K3-D  13338.00
+202312000      LANDA/CUEVA/JOHAN                       4         7340.00      212D3-4   7240.00
+202316015      ALFARO/FUENTES/MAGDA                    3         9184.00      819212-T  9084.00
+202319103      LEE/VASQUEZ/JENNY                       4         9184.00      144M2-56  9084.00
+202111935      GUZMAN/BARROS/FELIPE                    3         9184.00      1984F2-2  9084.00
+202312501      CORTES/REYES/MARIBEL                    2         13438.00     9182-FR33 13338.00
+202113179      PEREZ/PEREZ/BIANCA/PATRICIA             3         13438.00     6201G3-2  13338.00
+202311748      PATINO/FUENTES/MILAGROS-MARIELLA        4         13438.00     2810-B29  13338.00
+202312050      LOYOLA/HIJAR/NICOLAS-OSCAR              4         7340.00      125K-955  7240.00
+202313627      CHAVEZ/CARO/YVONNE                      1         7340.00      897H-533  7240.00
+202222447      VILCA/JUSTINO/MELVIN                    1         9184.00      852-63466 9084.00

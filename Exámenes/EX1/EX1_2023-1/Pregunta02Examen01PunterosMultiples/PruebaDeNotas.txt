@@ -1,0 +1,158 @@
+Codigo      Codigo    Escala Porcentaje    Nombre                               Modalidad
+202123703   5    30            GAMARRA TABORI PAUL RONAL               S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    14    2023020     2500.88     - INF263    9     2023020     2667.6     - MAT241    13    2022020     2500.88     - INF263    9     2023010     2667.6202119153   4    0             MENDOZA ARIAS HENRY                     Pª	À
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    16    2022010     1058.62     - FIS220    15    2022010     1058.62202113758   1    0             SOMA INGA DIALY                         P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202123373   3    0             ESCALANTE RARAZ BLANCA                  P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    7     2022020     1357.5202127660   4    25            CHANG ARGUEDAS HENRY ANTONIO            S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    12    2023020     2226.8202112598   1    20            MORI ZAVALETA LUZ LOURDES               S
+CodigoUltima notaUltimo semestre     Veces     Costo
+202224569   5    0             RIVERA PASQUEL OFELIA CINTHIA           P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    20    2023010     4.28987e-303     - INF263    13    2022010     4.57586e-303     - MEC206    14    2022020     4.28987e-303     - FIS220    17    2023020     4.28987e-303202214628   5    0             PALOMARES GUEVARA KARINA                P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202121791   1    25            GONZALES VELASQUEZ WALTER               S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    16    2022020     5.97119e-307202224918   5    50            PORTUGAL GUEVARA HELI JOHANA            S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    13    2022020     6.70598e-307     - MAT241    12    2022010     6.70598e-307202115802   5    0             MINAYA AMEZQUITA RHONY JAIME            P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    16    2022010     6.70542e-307     - INF263    18    2023010     7.15245e-307     - MEC206    7     2021020     6.70542e-307     - MEC289    20    2022010     6.70542e-307202318072   3    0             RIVERA MONTERO GLORIA OFELIA            V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    14    2023020     4.57148e-303202112887   2    50            CABRERA AGUERO JESSICA                  S
+CodigoUltima notaUltimo semestre     Veces     Costo
+202313065   2    0             RETT SERRANO RAFAEL RHONY               V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    16    2022020     3.38163e-306202129611   2    0             MALDONADO CORREA LUCERO CAROLA          P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202214712   2    0             CASANOVA CHUMPITAZ ALONSO               V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    12    2023020     6.70612e-307     - MAT241    19    2022020     6.70612e-307202126490   2    50            TAVERA CORREA FERNANDO                  S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    11    2023020     1.97626e-323202313249   3    0             NORABUENA PAIRAZAMAN JULIAN             P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    17    2023020     0     - FIS220    4     2022020     0     - INF246    4     2021020     0     - INF246    5     2021010     0     - MAT241    9     2022020     0     - FIS220    2     2023010     0     - INF246    11    2022010     0202114739   4    50            VELASQUEZ CANO FERNANDO                 S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    15    2022020     0     - MEC206    20    2023020     0202319927   3    0             PATINO MEZA MANUEL                      V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    20    2023010     9.22701e+260202221155   5    0             CORRALES ZIMIC JAIME DANIEL             P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202315724   4    50            VEGA SAENZ ALEXANDER RICHARD            S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    5     2022020     9.51667e+266     - MAT241    12    2022020     9.51667e+266     - INF246    17    2022020     9.51667e+266202125775   3    50            PRADO PAREDES JUAN                      S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    19    2022020     -2.47691e+196     - MEC206    18    2022010     -2.47691e+196     - FIS220    3     2022010     -2.47691e+196     - MEC270    20    2023010     -2.47691e+196202315643   2    0             IBEROS ZAMBRANO GONZALO                 P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    13    2022020     0     - INF246    17    2022010     0202127344   3    0             DEL_POZO QUIO CESAR                     V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    2     2021020     7.36118e-317     - INF263    16    2022020     7.85193e-317     - MEC270    1     2021010     7.36118e-317     - MEC270    14    2022010     7.36118e-317202318320   5    0             NORABUENA RIVERA GLORIA YESSICA         V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    19    2023020     0     - MEC289    16    2023020     0     - FIS220    11    2022020     0     - MEC289    9     2023010     0     - INF263    20    2023010     0     - INF263    5     2022020     0202315318   3    0             FLORENCIO LAM PAUL RONALD               P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    17    2023020     0     - MAT241    17    2022010     0202227316   2    30            RIVERO RETT RONY ANTONIO                S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC289    12    2022020     0     - MEC289    3     2021020     0     - MEC289    9     2022010     0202225778   2    50            MUNOZ ZIMIC ROCIO DELICIA               S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    16    2022010     0     - MAT241    12    2023010     0     - INF246    19    2023010     0202313754   3    30            MALCA SAAVEDRA DORIS MILAGROS           S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    20    2022010     3.17043e-306     - INF246    6     2021020     3.17043e-306     - MEC270    5     2022020     3.17043e-306202217030   3    0             LUNA POLO SONIA                         V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    18    2023020     3.38204e-306202214204   4    50            DIAZ IBEROS GLENDA YESSICA              S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    6     2023010     -3.24045e-155     - MEC289    20    2022020     -3.24045e-155     - MEC289    4     2022010     -3.24045e-155     - INF246    16    2023020     -3.24045e-155202318383   3    0             GORDILLO BOLANOS ARTURO GONZALO         P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    16    2022020     3.17068e-306     - INF263    12    2022010     3.38206e-306     - INF246    9     2022010     3.17068e-306202122715   1    0             VARGAS ZARATE VALENTINA                 V
+CodigoUltima notaUltimo semestre     Veces     Costo
+202213745   1    0             CARO QUISPE JORGE                       V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    12    2022010     3.70695e-314202113223   4    30            DIAZ SEDANO YVONNE                      S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    16    2022020     6.70598e-307202211325   3    0             MORI ARROYO SHIRLEY                     P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    6     2023010     7.85193e-317     - INF263    19    2023020     7.85193e-317     - MAT241    11    2022010     7.36118e-317202315763   2    30            CORREA AGUIRRE MOISES                   S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    20    2022020     5.92879e-322202129785   4    50            FARFAN RARAZ WALDEMAR                   S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    12    2022010     0202216995   5    0             LARRIEGA ARCA ISABEL MADELEINE          P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202115400   1    30            SANTISTEBAN JUGO NESTOR                 S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    15    2022010     6.4024e-308202311247   5    0             SERRANO JOLAY RHONY ROLANDO             P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    19    2023020     1.05899e-315     - MAT241    15    2023020     1.05899e-315202122742   5    0             ZAVALETA LOPEZ KARIN VIRGINIA           P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    17    2023010     6.60533e-316202312000   4    0             LANDA CUEVA JOHAN                       V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    8     2023010     1.07513e-297     - MEC289    18    2023020     1.07513e-297     - FIS220    7     2022010     1.07513e-297     - MEC289    2     2023010     1.07513e-297202313122   2    0             CUBA NARVAEZ PAUL JOHN                  P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    11    2022010     4.69791e-308     - MEC289    4     2021010     4.69791e-308     - MEC289    9     2021020     4.69791e-308     - MEC206    18    2022020     4.69791e-308     - MEC289    11    2022010     4.69791e-308202219773   5    50            SANCHEZ CUBA NATALIA ESTEFANIA          S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    13    2022020     4.17209e-308     - INF246    18    2023020     4.17209e-308202316015   3    0             ALFARO FUENTES MAGDA                    V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    18    2023010     7.16746e-298     - FIS220    13    2022020     7.16746e-298202116038   4    25            SAONA ARIAS ALBERTO                     S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    11    2022020     5.21966e-308     - MAT241    20    2022010     5.21966e-308202114285   2    25            CHAVARRI ALDAVE FERNANDO MARTIN         S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC289    19    2023010     1.00129e-306202316517   2    0             ZEGARRA CUBA ANTONIO                    P
+CodigoUltima notaUltimo semestre     Veces     Costo
+202119958   3    0             QUISPE BERROCAL ANTONIO ALVARO DANIEL   P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    17    2023020     2.61171e-308     - MEC270    19    2022020     2.61171e-308     - INF246    17    2022010     2.61171e-308202111260   2    0             GORDILLO CASTRO RONAL                   P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC289    15    2022020     1.23137e-287     - INF246    11    2023010     1.23137e-287202129735   5    50            MENDOZA CORREA JESUS CHRISTIAN          S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    19    2022010     3.58398e-298     - MEC289    13    2022010     3.58398e-298     - INF263    16    2023020     3.82291e-298202215067   4    50            JAUREGUI AGUERO HECTOR HENRY            S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    18    2022010     2.09021e-308     - MEC289    11    2022020     2.09021e-308202319103   4    0             LEE VASQUEZ JENNY                       V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    16    2023010     1.84705e-287     - INF263    13    2022020     1.97019e-287     - INF246    7     2022020     1.84705e-287     - FIS220    17    2023020     1.84705e-287202111935   3    0             GUZMAN BARROS FELIPE                    V
+CodigoUltima notaUltimo semestre     Veces     Costo
+202226249   1    30            WONG GALLO JANET MADELEINE              S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    20    2022020     5.27625e-309     - MEC289    15    2022010     5.27625e-309202312501   2    0             CORTES REYES MARIBEL                    V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    13    2022010     2.00097e-287     - MEC206    16    2023020     2.00097e-287202125607   2    0             POZO JUGO ISABEL                        P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    14    2022020     1.35788e-293     - MEC206    19    2022010     1.35788e-293202215494   2    30            DE_LA_HAZA CASTRO EMIGDIO JOHNNY        S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    3     2022020     4.17641e-308     - MEC206    19    2023010     4.17641e-308     - FIS220    14    2023020     4.17641e-308     - MEC270    1     2021010     4.17641e-308     - MEC270    2     2021020     4.17641e-308     - MEC270    16    2022010     4.17641e-308202219437   4    25            ZIMIC PAREDES SHIRLEY                   S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC289    17    2023020     4.17207e-308     - MEC289    7     2023010     4.17207e-308     - MEC270    8     2022020     4.17207e-308202116963   4    30            CORTEZ LEIVA SURAMI SILVIA              S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    20    2023020     3.58376e-298     - MEC206    14    2023010     3.58376e-298     - MEC289    20    2023020     3.58376e-298202113179   3    0             PEREZ PEREZ BIANCA PATRICIA             V
+CodigoUltima notaUltimo semestre     Veces     Costo
+202123402   1    0             VIZCARDO MORI LUCERO ZKENIA             P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    5     2022010     -7.69601e-289     - INF246    16    2022020     -7.69601e-289202223508   5    50            AURIS JOLAY HENRY EDILBERTO             S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    15    2022020     4.48319e-298     - FIS220    8     2023020     4.48319e-298     - MEC206    2     2022010     4.48319e-298202311748   4    0             PATINO FUENTES MILAGROS MARIELLA        V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    18    2023020     5.27756e-309     - FIS220    5     2023020     5.27756e-309202226929   2    50            BOLANOS FUENTES JORGE                   S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - FIS220    13    2023010     5.2151e-308     - MEC270    6     2022010     5.2151e-308     - MEC270    15    2023010     5.2151e-308     - MEC270    6     2022010     5.2151e-308202318318   1    50            TOKESHI GONZALES MARTIN                 S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    12    2023010     1.24771e-293     - INF263    17    2022010     1.33089e-293202312360   5    50            VILCA BARRERA CESAR EDGAR               S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    14    2023010     5.27625e-309     - INF246    5     2022010     5.27625e-309     - INF246    12    2023010     5.27625e-309     - INF246    5     2022020     5.27625e-309     - MEC289    19    2022020     5.27625e-309     - FIS220    14    2023010     5.27625e-309202312050   4    0             LOYOLA HIJAR NICOLAS OSCAR              V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    17    2023010     -8.05104e-314     - INF263    5     2023010     -8.58778e-314     - MAT241    10    2023020     -8.05104e-314     - MAT241    2     2022020     -8.05104e-314     - MAT241    7     2023010     -8.05104e-314202314919   5    50            CORTES CALIXTO ROSARIO                  S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MAT241    7     2022010     1.28441e-293     - FIS220    20    2023010     1.28441e-293     - MAT241    18    2022020     1.28441e-293202119707   2    30            MIRANDA LARRIEGA JUVENAL NESTOR         S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    4     2022020     5.27633e-309     - MEC289    7     2022020     5.27633e-309     - INF246    17    2023020     5.27633e-309     - INF246    5     2023010     5.27633e-309202216453   3    25            MINAYA VIZCARRA JUVENAL                 S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC206    10    2022010     -8.0508e-314     - MAT241    4     2022010     -8.0508e-314     - MEC270    16    2022010     -8.0508e-314     - MAT241    11    2023010     -8.0508e-314     - MAT241    3     2022020     -8.0508e-314     - MEC206    8     2021020     -8.0508e-314202313627   1    0             CHAVEZ CARO YVONNE                      V
+CodigoUltima notaUltimo semestre     Veces     Costo
+202129719   2    0             MAEIREIZO VASQUEZ LOURDES SILVIA        P
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF246    16    2022010     5.27617e-309     - MEC270    4     2022010     5.27617e-309     - MEC270    15    2022020     5.27617e-309     - FIS220    16    2022010     5.27617e-309202222447   1    0             VILCA JUSTINO MELVIN                    V
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    17    2023020     5.56278e-308202111397   2    50            ZEVALLOS PRADO RICARDO                  S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - MEC270    1     2022010     1.84787e-298     - FIS220    6     2022020     1.84787e-298     - FIS220    1     2022010     1.84787e-298     - MEC270    19    2022020     1.84787e-298202315527   3    30            JUSTINO COLLADO LUZ DELICIA             S
+CodigoUltima notaUltimo semestre     Veces     Costo
+     - INF263    11    2023020     6.1233e-308     - INF246    7     2023010     5.74059e-308

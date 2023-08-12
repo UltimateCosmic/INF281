@@ -1,0 +1,49 @@
+CODIGO       NOMBRE               CREDITOS
+INF263      Algoritmia              3.75
+Alumnos matriculados:
+Semestre    Codigo
+  20212     5400
+  20231     9103
+  20231     3065
+  20231     5527
+  20211     5802
+  20221     7030
+  20212     7660
+  20231     2050
+  20231     8072
+  20222     2447
+  20231     8383
+  20231     8318
+  20212     7344
+  20222     4569
+  20212     9735
+  20221     1325
+Numero de alumnos: 16
+Total ingresado: 0
+CODIGO       NOMBRE               CREDITOS
+MEC270      Procesos_De_Manufactura 4
+Alumnos matriculados:
+Semestre    Codigo
+  20211     1397
+  20212     9719
+  20222     6929
+  20222     5778
+  20221     6453
+  20231     5643
+  20231     2360
+  20221     9437
+  20222     4569
+  20231     1247
+  20211     3223
+  20222     6249
+  20231     2501
+  20212     5400
+  20212     5775
+  20231     3754
+  20231     5724
+  20211     9153
+  20211     9958
+  20212     7344
+  20221     5494
+Numero de alumnos: 21
+Total ingresado: 0

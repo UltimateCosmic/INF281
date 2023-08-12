@@ -1,0 +1,390 @@
+Codigo del Alumno: 202123703
+Nombre del Alumno: GAMARRA TABORI PAUL RONAL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202119153
+Nombre del Alumno: MENDOZA ARIAS HENRY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202113758
+Nombre del Alumno: SOMA INGA DIALY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202123373
+Nombre del Alumno: ESCALANTE RARAZ BLANCA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202127660
+Nombre del Alumno: CHANG ARGUEDAS HENRY ANTONIO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202112598
+Nombre del Alumno: MORI ZAVALETA LUZ LOURDES
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202224569
+Nombre del Alumno: RIVERA PASQUEL OFELIA CINTHIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202214628
+Nombre del Alumno: PALOMARES GUEVARA KARINA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202121791
+Nombre del Alumno: GONZALES VELASQUEZ WALTER
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202224918
+Nombre del Alumno: PORTUGAL GUEVARA HELI JOHANA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202115802
+Nombre del Alumno: MINAYA AMEZQUITA RHONY JAIME
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202318072
+Nombre del Alumno: RIVERA MONTERO GLORIA OFELIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202112887
+Nombre del Alumno: CABRERA AGUERO JESSICA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202313065
+Nombre del Alumno: RETT SERRANO RAFAEL RHONY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202129611
+Nombre del Alumno: MALDONADO CORREA LUCERO CAROLA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202214712
+Nombre del Alumno: CASANOVA CHUMPITAZ ALONSO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202126490
+Nombre del Alumno: TAVERA CORREA FERNANDO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202313249
+Nombre del Alumno: NORABUENA PAIRAZAMAN JULIAN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202114739
+Nombre del Alumno: VELASQUEZ CANO FERNANDO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202319927
+Nombre del Alumno: PATINO MEZA MANUEL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202221155
+Nombre del Alumno: CORRALES ZIMIC JAIME DANIEL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202315724
+Nombre del Alumno: VEGA SAENZ ALEXANDER RICHARD
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202125775
+Nombre del Alumno: PRADO PAREDES JUAN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202315643
+Nombre del Alumno: IBEROS ZAMBRANO GONZALO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202127344
+Nombre del Alumno: DEL_POZO QUIO CESAR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202318320
+Nombre del Alumno: NORABUENA RIVERA GLORIA YESSICA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202315318
+Nombre del Alumno: FLORENCIO LAM PAUL RONALD
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202227316
+Nombre del Alumno: RIVERO RETT RONY ANTONIO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202225778
+Nombre del Alumno: MUNOZ ZIMIC ROCIO DELICIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202313754
+Nombre del Alumno: MALCA SAAVEDRA DORIS MILAGROS
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202217030
+Nombre del Alumno: LUNA POLO SONIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202214204
+Nombre del Alumno: DIAZ IBEROS GLENDA YESSICA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202318383
+Nombre del Alumno: GORDILLO BOLANOS ARTURO GONZALO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202122715
+Nombre del Alumno: VARGAS ZARATE VALENTINA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202213745
+Nombre del Alumno: CARO QUISPE JORGE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202113223
+Nombre del Alumno: DIAZ SEDANO YVONNE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202211325
+Nombre del Alumno: MORI ARROYO SHIRLEY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202315763
+Nombre del Alumno: CORREA AGUIRRE MOISES
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202129785
+Nombre del Alumno: FARFAN RARAZ WALDEMAR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202216995
+Nombre del Alumno: LARRIEGA ARCA ISABEL MADELEINE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202115400
+Nombre del Alumno: SANTISTEBAN JUGO NESTOR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202311247
+Nombre del Alumno: SERRANO JOLAY RHONY ROLANDO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202122742
+Nombre del Alumno: ZAVALETA LOPEZ KARIN VIRGINIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202312000
+Nombre del Alumno: LANDA CUEVA JOHAN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202313122
+Nombre del Alumno: CUBA NARVAEZ PAUL JOHN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202219773
+Nombre del Alumno: SANCHEZ CUBA NATALIA ESTEFANIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202316015
+Nombre del Alumno: ALFARO FUENTES MAGDA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202116038
+Nombre del Alumno: SAONA ARIAS ALBERTO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202114285
+Nombre del Alumno: CHAVARRI ALDAVE FERNANDO MARTIN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202316517
+Nombre del Alumno: ZEGARRA CUBA ANTONIO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202119958
+Nombre del Alumno: QUISPE BERROCAL ANTONIO ALVARO DANIEL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202111260
+Nombre del Alumno: GORDILLO CASTRO RONAL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202129735
+Nombre del Alumno: MENDOZA CORREA JESUS CHRISTIAN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202215067
+Nombre del Alumno: JAUREGUI AGUERO HECTOR HENRY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202319103
+Nombre del Alumno: LEE VASQUEZ JENNY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202111935
+Nombre del Alumno: GUZMAN BARROS FELIPE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202226249
+Nombre del Alumno: WONG GALLO JANET MADELEINE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202312501
+Nombre del Alumno: CORTES REYES MARIBEL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202125607
+Nombre del Alumno: POZO JUGO ISABEL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202215494
+Nombre del Alumno: DE_LA_HAZA CASTRO EMIGDIO JOHNNY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202219437
+Nombre del Alumno: ZIMIC PAREDES SHIRLEY
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202116963
+Nombre del Alumno: CORTEZ LEIVA SURAMI SILVIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202113179
+Nombre del Alumno: PEREZ PEREZ BIANCA PATRICIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202123402
+Nombre del Alumno: VIZCARDO MORI LUCERO ZKENIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202223508
+Nombre del Alumno: AURIS JOLAY HENRY EDILBERTO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202311748
+Nombre del Alumno: PATINO FUENTES MILAGROS MARIELLA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202226929
+Nombre del Alumno: BOLANOS FUENTES JORGE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202318318
+Nombre del Alumno: TOKESHI GONZALES MARTIN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202312360
+Nombre del Alumno: VILCA BARRERA CESAR EDGAR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202312050
+Nombre del Alumno: LOYOLA HIJAR NICOLAS OSCAR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202314919
+Nombre del Alumno: CORTES CALIXTO ROSARIO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202119707
+Nombre del Alumno: MIRANDA LARRIEGA JUVENAL NESTOR
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202216453
+Nombre del Alumno: MINAYA VIZCARRA JUVENAL
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202313627
+Nombre del Alumno: CHAVEZ CARO YVONNE
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202129719
+Nombre del Alumno: MAEIREIZO VASQUEZ LOURDES SILVIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202222447
+Nombre del Alumno: VILCA JUSTINO MELVIN
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         0         0         0         0
+Codigo del Alumno: 202111397
+Nombre del Alumno: ZEVALLOS PRADO RICARDO
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
+Codigo del Alumno: 202315527
+Nombre del Alumno: JUSTINO COLLADO LUZ DELICIA
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez
+    1         1         0         0         0
