@@ -1,23 +1,20 @@
-# INF281 - Lenguaje de Programación 1
+# INF281 - Lenguaje de Programación 1 👨🏻‍💻
+Este es un repositorio de solucionarios del curso de Lenguaje de Programación 1. Incluye soluciones de laboratorios y exámenes.
+## Detalles
+- La mayoría de las evaluaciones están desarrolladas hasta el ciclo 2023-1.
+- El archivo `.gitignore` sirve para ignorar las carpetas y archivos de los proyectos que se generan al momento de la compilación.
+- Cualquier duda que pueda aclarar o si necesitan ayuda me pueden contactar por Discord (**cosmodev**).
 
+[![ANSI C](https://i.imgur.com/tFapy8s.png "ANSI C")](https://i.imgur.com/tFapy8s.png "ANSI C")
+> Nota: Si alguien desea aportar al repositorio pueden hacer un pull request. Lo mismo si ven alguna falla en los códigos ya que son muchos programas.
 ---
-
 # **Capítulo 1 - Introducción al Lenguaje C++**
-
----
-
 Este documento es el primer capítulo del curso INF281 - Lenguaje de Programación 1 y se enfoca en una introducción al lenguaje de programación C++.
 
 ## **Etapas en la generación de un programa: Compilación y enlace**
-
----
-
 Para que un computador entienda un programa hay que traducirlo a un lenguaje que entienda, esto es lenguaje de máquina. Al proceso de traducción se le llama compilación.
 
 ### Precompilación
-
----
-
 Proceso previo a la compilación. Se debe declarar cualquier cosa antes de utilizarla, esto incluye las instrucciones del preprocesador (las que empiezan con #). La precompilación consiste en ejecutar instrucciones de preprocesador antes de empezar la traducción de máquina. 
 
 ![Untitled](./Adicional/Pictures/Untitled.png)
@@ -29,9 +26,6 @@ La función de la instrucción `#include <iostream>` es buscar el archivo de tex
 ![Untitled](./Adicional/Pictures/Untitled%202.png)
 
 ### Compilación
-
----
-
 Es la traducción del código de nuestro programa a lenguaje de máquina. Se traduce a archivos con extensión .o, los cuales se le les denomina programa objeto, pero estos aún no pueden ejecutarse. Esto quiere decir, que nuestra computadora entienda las ordenes, pero aún no sabe como ejecutarlas porque le falta las instrucciones.
 
 ![Untitled](./Adicional/Pictures/Untitled%203.png)
@@ -39,17 +33,11 @@ Es la traducción del código de nuestro programa a lenguaje de máquina. Se tra
 ![Untitled](./Adicional/Pictures/Untitled%204.png)
 
 ### Enlace
-
----
-
 El compilador crea un nuevo archivo agregándole al código del programa objeto todo lo que se requiera para ejecutarse. También agregará las instrucciones para que el programa pueda ejecutarse independientemente de cualquier otro programa.
 
 ![Untitled](./Adicional/Pictures/Untitled%205.png)
 
 ## **Tipos de datos en C++**
-
----
-
 Existen varios tipos de datos en C++, a continuación una lista de ellos, acompañado de su tamaño.
 
 | Group | Type names* | Notes on size / precision |
@@ -76,9 +64,6 @@ Existen varios tipos de datos en C++, a continuación una lista de ellos, acompa
 | Null pointer | decltype(nullptr) |  |
 
 ## **Diferencias ente el Lenguaje C y el Lenguaje C++**
-
----
-
 El Lenguaje C es el núcleo de lenguajes C++, Java y C#. Por lo que C y C++ son lenguajes de programación diferentes, pero se puede decir que C es un subconjunto de C++.
 
 ![Lo que hacemos en C se puede en C++, pero no viceversa.](./Adicional/Pictures/Untitled%206.png)
@@ -92,17 +77,11 @@ Novedades con la llegada de C++ (Bjarne Stroustrup):
 - Programación genérica mediante uso de plantillas.
 
 ### Instrucción `#include`
-
----
-
 Ahora, en C++, añadimos las bibliotecas sin la extensión `.h`. Y las librerías que previamente usábamos en lenguaje C se les antepone la letra `c` al momento de añadirlas.
 
 ![Untitled](./Adicional/Pictures/Untitled%207.png)
 
 ### Espacio de Nombres `namespace`
-
----
-
 Puede existir algo llamado choque entre elementos, esto sucede cuando dos identificadores con el mismo nombre son incluidos en un proyecto desde dos bibliotecas de funciones diferentes. Esto se puede solucionar con la instrucción `namespace`. La instrucción nos permite asignarle un nombre a un conjunto de funciones. 
 
 ![Uso del `namespace` en un header o archivo .h](./Adicional/Pictures/Untitled%208.png)
@@ -140,9 +119,6 @@ using namespace std;
 ```
 
 ### Parámetros por Referencia
-
----
-
 En C, nosotros **aparentábamos** que enviábamos nuestras variables por referencia, pero lo que realmente sucedía era que creábamos una variable puntero que apuntaba a nuestra variable. Ahora, en C++, podemos pasar realmente parámetros por referencia, pero esto se realiza diferente.
 
 ![Untitled](./Adicional/Pictures/Untitled%2013.png)
@@ -154,9 +130,6 @@ Como podemos ver, ahora no necesitamos enviar la dirección de memoria de nuestr
 Y ahora, viendo la función, vemos que no usamos el clásico `*` como antes, ahora lo que hacemos es usar el `&` antes de nuestra variable. Y controlamos la variable sin especificar que estamos tratando con el valor de la misma.
 
 ### Punteros
-
----
-
 En lenguaje C usábamos la constante `NULL`, ahora usamos la palabra reservada `nullptr`.
 
 ![Untitled](./Adicional/Pictures/Untitled%2015.png)
@@ -166,9 +139,6 @@ Para la asignación dinámica usábamos la función `malloc`, ahora usamos el op
 ![Untitled](./Adicional/Pictures/Untitled%2016.png)
 
 ### Otras diferencias significativas
-
----
-
 - Sobrecarga de funciones: Se puede definir dos o más funciones con el mismo nombre y que realicen cosas diferentes.
 - Sobrecarga de operadores: Un operador puede cumplir una función diferente a la usual.
 - Entrada y salida de datos: Ahora usaremos los operadores `cin`, `cout`, `<<` y `>>`.
@@ -178,15 +148,9 @@ Para la asignación dinámica usábamos la función `malloc`, ahora usamos el op
 - Clase String: Cadenas de caracteres sin tener que hacer arreglos de `char` manualmente.
 
 # **Capítulo 2 - Entrada y salida de datos**
-
----
-
 Este es el segundo capítulo del curso INF281 - Lenguaje de Programación 1 y se enfoca en la entrada y salida de datos del lenguaje de programación C++.
 
 ## **Introducción a la entrada y salida de datos desde C++**
-
----
-
 La biblioteca definida por el lenguaje C++ es `iostream`, y sus elementos definidos son:
 
 | Clases | Objetos | Operadores Sobrecargados |
@@ -195,9 +159,6 @@ La biblioteca definida por el lenguaje C++ es `iostream`, y sus elementos defini
 | istream | cin | >> |
 
 ### Formas de invocación
-
----
-
 1. Acompañando el objeto del espacio de nombres en cada invocación, esto es:
 
 ```cpp
@@ -228,15 +189,9 @@ cin >> ...
 ```
 
 ### Valor de retorno
-
----
-
 Cuando usamos los objetos **`cout`** y **`cin`** podríamos pensar que son los objetos que ejecutan la acción de enviar o recibir un flujo de datos, pero los que realmente ejecutan esa orden son los operadores `<<` y/o `>>`.
 
 ### Los operadores trabajan como funciones
-
----
-
 El `cout<<a;` o `cin>>a;` es interpretado por el compilador como `<<(cout,a);` y `<<(cout,a);`. De esta forma entendemos que existe un valor de retorno, el cuál será una **referencia al objeto que entro como parametro**, en este caso `&cout` o `&cin`.
 
 Este valor retornado permite manipular varias expresiones en una misma línea de código.
@@ -247,9 +202,6 @@ cin>>a>>b>>c>>d;
 ```
 
 ### Interpretación
-
----
-
 El valor de retorno mencionado anteriormente permite reutilizar el objeto múltiples veces.
 
 ![Untitled](./Adicional/Pictures/Untitled%2017.png)
@@ -265,28 +217,16 @@ cout<<a; cout<<b; cout<<c; cout<<d;
 ```
 
 ### Operadores
-
----
-
 - Operador `<<`: Operador de inserción de flujo - Utilizado para `cout`.
 - Operador `<<`: Operador de extracción de flujo - Utilizado para `cin`.
 
 ## **Entrada de datos: Instrucción `cout`**
-
----
-
 Las operaciones de entrada y salida ya se hacen a través de "objetos" definidos por "clases" que han sido diseñadas de manera apropiada para este fin.
 
 ### Bibliotecas de funciones y espacios de nombres
-
----
-
 Para emplear los elementos que permitan entrada y slida de datos usaremos primordialmente la biblioteca `iostream`. Para poder manipular la salida de datos usaremos la biblioteca `iomanip`. El espacio de nombres de ambas bibliotecas es `std`.
 
 ### Objeto `cout`
-
----
-
 El objeto `cout` permite enviar al medio estándar de salida el resultado de expresiones que se le proporcionan. Las operaciones de entrada y salida en C++ se hacen por medio de objetos, en este sentido `cout` es un objeto definido **(también se dice "instanciado")** de la clase `ostream` que se encuentran en la biblioteca `iostream`.
 
 | Clase (tipo de dato) | Objeto (variable) | Operador de inserción de flujo |
@@ -321,9 +261,6 @@ cout << endl;
 ```
 
 ### Solucionar problema del formato
-
----
-
 Para solucionar el problema del formato tenemos herramientas que son funciones de la biblioteca `iomanip` y funciones miembros del objeto `cout`.
 
 1. `cout.width(n)`: Representa el llamado a ejecución de la función miembro (o también denominado método) `width` que pertenece a (es miembro de) `cout`.  `n` es un valor entero que indica la cantidad mínima de caracteres a emplear en la salida del valor (es equivalente al uso de `%nd` en el Lenguaje C). El ejemplo siguiente muestra el efecto de esta función:
@@ -367,9 +304,6 @@ Para solucionar el problema del formato tenemos herramientas que son funciones d
     
 
 ### Banderas de formato (*format flags*)
-
----
-
 Son constantes que permiten definir ciertos atributos que influenciarán en la forma cómo aparecerán los datos en el medio de salida.
 
 - `left`: Alinea los resultados a la izquierda.
@@ -419,9 +353,6 @@ _
 ```
 
 ### Formato en valores de punto flotante
-
----
-
 Para dar format a valores de punto flotante, C++ requiere del uso de dos herramientas, una que define la precisión en la que aparecerá el número (`cout.presicion(n)` o `setpresicion(n)`) y la otra que interpretará el significado de la precisión (`fixed`).
 
 ```cpp
@@ -464,9 +395,6 @@ _
 ```
 
 ### Objeto `cin`
-
----
-
 El objeto `cin` permite leer, uno por uno, los caracteres de un flujo de caracteres que ingresa del medio estándar de entrada. Los caracteres son convertidos de acuerdo al tipo de variable que acompaña al objeto.
 
 ```cpp
@@ -479,9 +407,6 @@ Como se observa, aquí también se ha **sobrecargado un operado**r, en este caso
 Al ejecutar la orden, el sistema detendrá el programa para que el usuario pueda colocar los datos en el **buffer de entrada**, luego de presionar la tecla `ENTER [↵]` el programa convertirá los caracteres del flujo de entrada en la representación binaria correspondiente al tipo de dato de la variable y lo asignará a ella. Los caracteres ingresados deberán corresponder con el tipo de la variable de lo contrario el proceso se detendrá, asignando a la variable lo que se haya podido convertir hasta ese momento. **El proceso termina satisfactoriamente cuando se encuentre un separador (espacio en blanco, cambio de línea o tabulador).**
 
 ### Entrada y salida de caracteres
-
----
-
 La entrada y salida de caracteres desde C++ se puede realizar, de igual manera que
 con los números, con los objetos `cin` y `cout` empleando una variable una variable de tipo
 `char`, sin embargo existen algunos métodos que pueden ser muy útiles dado el caso. A
@@ -622,18 +547,12 @@ caracter no blanco.
     
 
 # **Capítulo 3 - Archivos**
-
----
-
 Todos los archivos son lo mismo para el computador. La diferencia es la forma cómo se almacena la información. Existen dos formas básicas de codificar la información para guardarlas en archivos:
 
 - El formato de texto - *archivos de texto*.
 - El formato binario - *archivos binarios*.
 
 ## Diferencias entre Archivos de Texto y Binarios
-
----
-
 1. **Cómo se almacena un dato en el archivo:**
     1. En un archivo de textos el dato se transforma y cuarda como una secuencia de caracteres.
         
@@ -676,9 +595,6 @@ Todos los archivos son lo mismo para el computador. La diferencia es la forma c�
         
 
 ## Archivos de Textos en C++
-
----
-
 - Biblioteca definida por el lenguaje C++: `fstream`.
 - Elementos definidos en `fstream`:
     - Clases: `ofstream` y `ifstream`.
@@ -697,21 +613,12 @@ Todos los archivos son lo mismo para el computador. La diferencia es la forma c�
 `std::ifstream`
 
 ### Objetos de Archivo
-
----
-
 Se deberá definir un objeto que se relacione con el archivo con el que se va a trabajar. A través del objeto se abrirá el archivo, se harán operaciones en él y se cerrará.
 
 ### Constructores y Destructores
-
----
-
 Son métodos o funciones miembro definidos para una clase que se ejecutan de forma automática. Los constructores para las clases `ofstream` y `ifstream` permiten abrir los archivos, y los destructores permiten cerrarlos.
 
 ### Definición y apertura de un archivo de textos
-
----
-
 - **Creación:**
     - Empleando el constructor:
         
@@ -761,9 +668,6 @@ Son métodos o funciones miembro definidos para una clase que se ejecutan de for
         
 
 ### Verificación de la apertura de un archivo de textos
-
----
-
 Si queremos que se imprima un error en caso no se abra el archivo podemos verificar la apertura:
 
 ```cpp
@@ -775,9 +679,6 @@ if (!arch) { // not arch
 ```
 
 ### Operaciones de lectura y escritura en archivos de textos
-
----
-
 Lo que sabemos hacer con `cout` se puede aplicar con un objeto `ofstream` y lo que sabemos hacer con `cin` se puede aplicar con un objeto `ifstream`.
 
 ```cpp
@@ -786,21 +687,12 @@ arch<<"Hola mundo!"<<endl; // Hola mundo! <- archivo
 ```
 
 ### Cierre de archivos de texto
-
----
-
 El destructor se encarga de hacerlo, pero se puede forzar con la instrucción `arch.close();`.
 
 ## Archivos Binarios en C++
-
----
-
 Para sacar provecho a esto, se deben almacenar los datos de manera homogénea, en bloque del mismo tamaño que llamaremos registros.
 
 ### Definición y apertura de un archivo binario
-
----
-
 ```cpp
 ofstream arch("arch.bin", ios::out | ios::binary);
 ifstream arch("arch.bin", ios::in | ios::binary);
@@ -808,9 +700,6 @@ fstream arch("arch.bin", ios::out | ios::in | ios::binary);
 ```
 
 ### Operaciones de lectura y escritura en archivos binarios
-
----
-
 - **Escritura:** En el método de escritura se debe proporcionar la dirección dónde se encuentre el dato a grabar y la cantidad de bytes que a partir de allí se van a enviar al archivo.
     
     ```cpp
@@ -847,9 +736,6 @@ fstream arch("arch.bin", ios::out | ios::in | ios::binary);
     - `reinterpret_cast<const char *>`: Es un operador que busca manipular la información contenida en la variable `v`, byte por byte, de modo que pueda colocar la información que viene en el archivo.
 
 ### Acceso aleatorio o directo en archivos binarios
-
----
-
 Método para posicionar el indicador del archivo en algún byte del archivo:
 
 ```cpp
@@ -876,9 +762,6 @@ arch.tellg();
 </aside>
 
 ## Objetos de archivos como parámetros de funciones
-
----
-
 El encabezado de cualquier función que pase como parámetro un objeto definido en `iostream` y `fstream` deberá pasar por referencia, y en su implementación también:
 
 ```cpp
@@ -889,9 +772,6 @@ void function(iostream &arch) {
 ```
 
 # Manejo de funciones en el lenguaje C++
-
----
-
 La principal diferencia es el posible uso de parámetros con valores por defecto, ejemplo.
 
 ```cpp
@@ -905,9 +785,6 @@ int function(int a=10, int b=7) {
 ```
 
 ## Sobrecarga de funciones
-
----
-
 Es una propiedad de C++ que nos permite definir dos o más funciones con el mismo nombre, el único requisito es que los parámetros sean diferentes (ya sea en cantidad o tipo de dato).
 
 ```cpp
@@ -917,9 +794,6 @@ int function(int, int, double);
 ```
 
 ## Sobrecarga de operadores
-
----
-
 Es una propiedad de C++ que nos permite realizar otras aplicaciones para los operadores. Por ejemplo, la instrucción `a+b` se interpreta como `+(a, b)`.
 
 ```cpp
@@ -934,9 +808,6 @@ void operator *(struct Persona &per, double porcentaje) {
 </aside>
 
 ### Lista de operadores
-
----
-
 - Se pueden sobrecargar:
 
 ![Untitled](./Adicional/Pictures/Untitled%2021.png)
@@ -946,9 +817,6 @@ void operator *(struct Persona &per, double porcentaje) {
 ![Untitled](./Adicional/Pictures/Untitled%2022.png)
 
 ## Plantillas de funciones
-
----
-
 Es una herramienta de C++ que permite implementar una función y que a la hora de compilarla el sistema genere varias versiones de esta función. Para esto se emplea un tipo de dato genérico: `template<typename TIPO>`.
 
 ![Untitled](./Adicional/Pictures/Untitled%2023.png)
@@ -959,28 +827,16 @@ Es una herramienta de C++ que permite implementar una función y que a la hora d
 </aside>
 
 ## Bibliotecas estáticas de funciones
-
----
-
 Es una agrupación de datos, tipos de datos y funcionalidades organizados de forma que sean reutilizables en más de un proyecto. Las estáticas tienen extensiones .a o .lib, aunque también se pueden considerar los archivos .o.
 
 ### Procedimiento para crear una biblioteca estática
-
----
-
 1. Creación de proyecto “Biblioteca Estática”: Si el proyecto no se creo correctamente no se debe haber creado el archivo main.cpp.
 2. Creación de proyecto que use “Biblioteca Estática”: Incorpore la biblioteca estática en el proyecto, vaya a las propiedades del proyecto, y enlace la biblioteca con la opción linker.
 
 # Arreglos y punteros
-
----
-
 Los temas a tratar son: Entrada y salidas de cadenas de caracteres, métodos de asignación dinámica, punteros a punteros, punteros genéricos, punteros a funciones, y argumentos en la línea de comandos.
 
 ## Inicialización dinámica
-
----
-
 ```cpp
 int *p;
 p = nullptr;
@@ -994,25 +850,17 @@ p = new int[5]{12,7,9};
 
 ### Errores comunes en el uso de punteros dentro de funciones
 
----
-
 ![Untitled](./Adicional/Pictures/Untitled%2025.png)
 
 ## Liberación de un puntero
-
----
 
 ![Untitled](./Adicional/Pictures/Untitled%2026.png)
 
 ## Cadenas de caracteres
 
----
-
 Se usa la librería `cstring` para el uso de funciones de cadenas de caracteres.
 
 ### Funciones de `cstring`
-
----
 
 - Uso del `strlen()`.
     
@@ -1037,12 +885,8 @@ Se usa la librería `cstring` para el uso de funciones de cadenas de caracteres.
     ```cpp
     n = strcat(cad1, cad2); // Concatena la cadena 2 en la cadena 1
     ```
-    
 
 ## Funciones miembro para la lectura de cadena de caracteres
-
----
-
 - Uso del `cin.getline(char *, int n)`:
     - Lee todos los caracteres del buffer de entrada hasta completar `n-1` caracteres o hasta encontrar el caracter de cambio de línea, el que llegue primero y los asigna a `cad`.
     - Agrega a `cad` el carácter de terminación (0).
@@ -1086,17 +930,12 @@ Se usa la librería `cstring` para el uso de funciones de cadenas de caracteres.
 
 ## Asignación dinámica de memoria
 
----
-
 Los métodos que presentaremos son:
 
 1. Métodos de asignación de exacta de memoria.
 2. Método de asignación de memoria por incrementos.
 
 ### Método de asignación exacta de memoria
-
----
-
 Se utiliza una variable que vaya contando la cantidad de datos.
 
 ```cpp
@@ -1112,9 +951,6 @@ Pasos para la implementación de la función `leerDatos()`.
 3. Se copian los datos para el arreglo que va a contener los datos del buffer.
 
 ### Método de asignación de memoria por incrementos
-
----
-
 Lo que se busca es tener un mínimo de desperdicio.
 
 ```cpp
@@ -1132,9 +968,6 @@ escribirDatos(arr, numDatos);
 7. El proceso se repite hasta leer todos los datos.
 
 ## Variantes a los métodos
-
----
-
 En las situaciones en las que no se puede contar el número de datos, se usara colocar marcas al final de los datos, como se hace por ejemplo con el cero en las cadenas de caracteres.
 
 <aside>
@@ -1143,13 +976,7 @@ En las situaciones en las que no se puede contar el número de datos, se usara c
 </aside>
 
 # Arreglos y punteros (Parte 2)
-
----
-
 ## Punteros a punteros
-
----
-
 Aquel cuya variable referenciada contiene una dirección de memoria.
 
 ```cpp
@@ -1160,37 +987,22 @@ double ****r;
 ```
 
 ### Asignación: Puntero simple
-
----
-
 ![Untitled](./Adicional/Pictures/Untitled%2027.png)
 
 ### Asignación: Puntero doble
-
----
-
 ![Untitled](./Adicional/Pictures/Untitled%2028.png)
 
 ### Matrices dinámicas
-
----
-
 ![Untitled](./Adicional/Pictures/Untitled%2029.png)
 
 ![Untitled](./Adicional/Pictures/Untitled%2030.png)
 
 # **Punteros a función**
-
----
-
 Es aquel puntero que apunta al código de una función. Se almacena la dirección y se ejecuta la función a través de puntero.
 
 ![Untitled](./Adicional/Pictures/Untitled%2031.png)
 
 ## Declaración
-
----
-
 Se define de la siguiente manera:
 
 ```cpp
@@ -1200,15 +1012,9 @@ double (*a)(int, int);
 Se lee de la siguiente manera: “a” es un puntero que puede apuntar a cualquier función cuyo encabezado indique que recibe dos enteros como parámetros y devuelve un double.
 
 ## Usos de punteros a función
-
----
-
 Ejemplos de funciones definidas en `cstdlib`:
 
 ### Función `qsort`
-
----
-
 **Es una función genérica**, es capaz de ordenar cualquier conjunto de datos sin importar el tipo de dato que lo conforma ni la estructura que contenga a esos datos, y en el orden que se desee.
 
 ```cpp
@@ -1227,9 +1033,6 @@ void qsort(void *arr, int nd, int size, int (*cmp)(const void *, const void *));
 ```
 
 ### Función `bsearch`
-
----
-
 Es una función genérica. Header de la función:
 
 ```cpp
@@ -1237,9 +1040,6 @@ void *bsearch(void *llave, void *arr, int nd, int size, int (*cmp)(const void *,
 ```
 
 ### Función de ordenación genérica
-
----
-
 Es una función genérica de ordenación empleando Quick Sort. La función se invocará de la siguiente manera:
 
 ```cpp
@@ -1253,9 +1053,6 @@ ordenarG(arr, 0, n-1, cmp);
 Los elementos del arreglo primario tendrán siempre un tamaño fijo. La función de comparación recibe dos punteros genéricos pero con el contenido de los elementos del arreglo primario.
 
 # Herencia
-
----
-
 Es una propiedad de la POO que permite crear una clase a partir de otra.
 
 ![La clase B está heredando de la clase A.](./Adicional/Pictures/Untitled%2032.png)
@@ -1263,9 +1060,6 @@ Es una propiedad de la POO que permite crear una clase a partir de otra.
 La clase B está heredando de la clase A.
 
 ## Características
-
----
-
 1. Al heredar de una clase base, la clase derivada adquiere todos los atributos y métodos de la clase base. 
 
 ![Untitled](./Adicional/Pictures/Untitled%2033.png)
@@ -1276,30 +1070,18 @@ La clase B está heredando de la clase A.
 ![Untitled](./Adicional/Pictures/Untitled%2034.png)
 
 ## Tipos de herencia
-
----
-
 Cuando se hereda una única clase la herencia es simple, mientras que cuando una clase hereda de dos a más clases se dice que es herencia múltiple.
 
 ## Zona `protected`
-
----
-
 En la zona protegida se pueden colocar atributos y métodos. Solo tiene efecto en herencia.
 
 ### Caracteristicas
-
----
-
 1. Los objetos no pueden acceder a la zona protegida, para ellos es una zona privada.
 2. Una clase derivada si puede acceder a la zona protegida de su clase base.
 
 ![Untitled](./Adicional/Pictures/Untitled%2035.png)
 
 ## Especificadores de acceso
-
----
-
 Se emplea para restringir el acceso a los elementos de una clase base, de las clases que hereden de las clases derivadas de la base.
 
 ```cpp
@@ -1309,15 +1091,9 @@ class derivada : private base { ...
 ```
 
 # Polimorfismo
-
----
-
 Veremos conceptos de polimorfismo.
 
 ## Punteros en herencia
-
----
-
 Un puntero de clase base puede apuntar directamente a cualquier puntero de clase derivada, sin necesidad de castear.
 
 ```jsx
@@ -1332,29 +1108,17 @@ class ClaseD objD;
 ![Untitled](./Adicional/Pictures/Untitled%2037.png)
 
 ### Restricciones
-
----
-
 Solo podrá acceder a los elementos de la clase base definidos en la clase derivada. El puntero no podrá acceder a los elementos propios de la clase derivada.
 
 ## Métodos virtuales
-
----
-
 Con un método virtual el compilador le asigna una dirección de memoria , pero ésta no corresponde con el código de inicios de la función, sino que lo hace trabajar como un doble puntero.
 
 ### Implementación
-
----
-
 Se realiza dentro de una jerarquía de clases (herencia), por lo general en la clase base.
 
 ![Untitled](./Adicional/Pictures/Untitled%2038.png)
 
 ### Definición
-
----
-
 Si se cumplen **todas** estas condiciones:
 
 1. Si en un proyecto se implementa una jerarquía de clases.
@@ -1368,17 +1132,11 @@ Si se cumplen **todas** estas condiciones:
 </aside>
 
 ## Clase abstracta
-
----
-
 En los casos en los que tenemos varias clases que no se relacionan pero que tienen métodos con encabezados iguales.
 
 Para solucionar este problema se crea una clase que declare estos métodos de manera virtual, y se hace que las demás clases hereden de ésta.
 
 ### Método virtual puro
-
----
-
 Es aquel que no se requiere que tenga implementación. Para evitar que el compilador detecte error de enlace, se le implementa de la manera siguiente:
 
 ```jsx
@@ -1392,9 +1150,6 @@ La igualdad con cero hará que el compilador no busque la implementación.
 Como la nueva clase solo se ha creado para poder realizar polimorfismo, se declaran los métodos puros.
 
 # Biblioteca estándar de plantillas (STL)
-
----
-
 Se trata de un conjunto de bibliotecas en las que se definen distintas estructuras de datos (contenedores). Los contenedores pueden almacenar cualquier tipo de dato. Veremos tres:
 
 1. Biblioteca vector: Simulará el trabajo con un arreglo dinámico.
@@ -1402,15 +1157,9 @@ Se trata de un conjunto de bibliotecas en las que se definen distintas estructur
 3. Biblioteca map: Se puede manejar como una tabla Hash.
 
 # Iteradores
-
----
-
 Los vectores se manejan a través de índices, mientras que las listas no. Para esto se ha definido otra biblioteca `#include<iterator>` que permite definir elementos similares a los punteros para recorrerlos y manipularlos.
 
 # Atributos y métodos estáticos
-
----
-
 Los atributos estáticos se definen en el heap de la siguiente manera:
 
 ```cpp
