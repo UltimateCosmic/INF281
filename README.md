@@ -20,13 +20,13 @@ Para que un computador entienda un programa hay que traducirlo a un lenguaje que
 
 Proceso previo a la compilación. Se debe declarar cualquier cosa antes de utilizarla, esto incluye las instrucciones del preprocesador (las que empiezan con #). La precompilación consiste en ejecutar instrucciones de preprocesador antes de empezar la traducción de máquina. 
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled.png)
+![Untitled](./Adicional/Pictures/Untitled.png)
 
 La función de la instrucción `#include <iostream>` es buscar el archivo de textos “iostream” y extraer todo el código que se encuentra en él, y lo coloca en el reemplazo de la instrucción. Dentro de este archivo se encuentra la declaración del identificador “cout”, por eso no hay necesidad de hacerlo cada vez que iniciamos un proyecto o programa.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%201.png)
+![Untitled](./Adicional/Pictures/Untitled%201.png)
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%202.png)
+![Untitled](./Adicional/Pictures/Untitled%202.png)
 
 ### Compilación
 
@@ -34,9 +34,9 @@ La función de la instrucción `#include <iostream>` es buscar el archivo de tex
 
 Es la traducción del código de nuestro programa a lenguaje de máquina. Se traduce a archivos con extensión .o, los cuales se le les denomina programa objeto, pero estos aún no pueden ejecutarse. Esto quiere decir, que nuestra computadora entienda las ordenes, pero aún no sabe como ejecutarlas porque le falta las instrucciones.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%203.png)
+![Untitled](./Adicional/Pictures/Untitled%203.png)
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%204.png)
+![Untitled](./Adicional/Pictures/Untitled%204.png)
 
 ### Enlace
 
@@ -44,7 +44,7 @@ Es la traducción del código de nuestro programa a lenguaje de máquina. Se tra
 
 El compilador crea un nuevo archivo agregándole al código del programa objeto todo lo que se requiera para ejecutarse. También agregará las instrucciones para que el programa pueda ejecutarse independientemente de cualquier otro programa.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%205.png)
+![Untitled](./Adicional/Pictures/Untitled%205.png)
 
 ## **Tipos de datos en C++**
 
@@ -81,7 +81,7 @@ Existen varios tipos de datos en C++, a continuación una lista de ellos, acompa
 
 El Lenguaje C es el núcleo de lenguajes C++, Java y C#. Por lo que C y C++ son lenguajes de programación diferentes, pero se puede decir que C es un subconjunto de C++.
 
-![Lo que hacemos en C se puede en C++, pero no viceversa.](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%206.png)
+![Lo que hacemos en C se puede en C++, pero no viceversa.](./Adicional/Pictures/Untitled%206.png)
 
 Lo que hacemos en C se puede en C++, pero no viceversa.
 
@@ -97,7 +97,7 @@ Novedades con la llegada de C++ (Bjarne Stroustrup):
 
 Ahora, en C++, añadimos las bibliotecas sin la extensión `.h`. Y las librerías que previamente usábamos en lenguaje C se les antepone la letra `c` al momento de añadirlas.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%207.png)
+![Untitled](./Adicional/Pictures/Untitled%207.png)
 
 ### Espacio de Nombres `namespace`
 
@@ -105,15 +105,15 @@ Ahora, en C++, añadimos las bibliotecas sin la extensión `.h`. Y las librería
 
 Puede existir algo llamado choque entre elementos, esto sucede cuando dos identificadores con el mismo nombre son incluidos en un proyecto desde dos bibliotecas de funciones diferentes. Esto se puede solucionar con la instrucción `namespace`. La instrucción nos permite asignarle un nombre a un conjunto de funciones. 
 
-![Uso del `namespace` en un header o archivo .h](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%208.png)
+![Uso del `namespace` en un header o archivo .h](./Adicional/Pictures/Untitled%208.png)
 
 Uso del `namespace` en un header o archivo .h
 
-![Uso del `namespace` en un archivo .c](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%209.png)
+![Uso del `namespace` en un archivo .c](./Adicional/Pictures/Untitled%209.png)
 
 Uso del `namespace` en un archivo .c
 
-![Uso del `namespace` en el archivo main.c](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2010.png)
+![Uso del `namespace` en el archivo main.c](./Adicional/Pictures/Untitled%2010.png)
 
 Uso del `namespace` en el archivo main.c
 
@@ -126,11 +126,11 @@ Hay formas para simplificar el uso de funciones definidas con un `namespace`, ej
 
 - Cuando tenemos que usar una función de una espacio de nombres varias veces.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2011.png)
+![Untitled](./Adicional/Pictures/Untitled%2011.png)
 
 - Cuando tenemos que usar muchas funciones de un mismo espacio de nombres.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2012.png)
+![Untitled](./Adicional/Pictures/Untitled%2012.png)
 
 Las bibliotecas estándar de C++ han sido declaradas en el espacio de nombres `std`, por lo que tenemos que indicarlo en nuestro programa, una forma de hacerlo es de la siguiente manera:
 
@@ -145,11 +145,11 @@ using namespace std;
 
 En C, nosotros **aparentábamos** que enviábamos nuestras variables por referencia, pero lo que realmente sucedía era que creábamos una variable puntero que apuntaba a nuestra variable. Ahora, en C++, podemos pasar realmente parámetros por referencia, pero esto se realiza diferente.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2013.png)
+![Untitled](./Adicional/Pictures/Untitled%2013.png)
 
 Como podemos ver, ahora no necesitamos enviar la dirección de memoria de nuestra variable, lo que hacemos es enviar a nuestra variable misma.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2014.png)
+![Untitled](./Adicional/Pictures/Untitled%2014.png)
 
 Y ahora, viendo la función, vemos que no usamos el clásico `*` como antes, ahora lo que hacemos es usar el `&` antes de nuestra variable. Y controlamos la variable sin especificar que estamos tratando con el valor de la misma.
 
@@ -159,11 +159,11 @@ Y ahora, viendo la función, vemos que no usamos el clásico `*` como antes, aho
 
 En lenguaje C usábamos la constante `NULL`, ahora usamos la palabra reservada `nullptr`.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2015.png)
+![Untitled](./Adicional/Pictures/Untitled%2015.png)
 
 Para la asignación dinámica usábamos la función `malloc`, ahora usamos el operador `new`.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2016.png)
+![Untitled](./Adicional/Pictures/Untitled%2016.png)
 
 ### Otras diferencias significativas
 
@@ -252,7 +252,7 @@ cin>>a>>b>>c>>d;
 
 El valor de retorno mencionado anteriormente permite reutilizar el objeto múltiples veces.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2017.png)
+![Untitled](./Adicional/Pictures/Untitled%2017.png)
 
 El computador interpretará lo que está en la izquierda de la forma que está a la derecha.
 
@@ -294,7 +294,7 @@ El objeto `cout` permite enviar al medio estándar de salida el resultado de exp
 | ostream | cout | << |
 | istream | cin | >> |
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2018.png)
+![Untitled](./Adicional/Pictures/Untitled%2018.png)
 
 <aside>
 💡 C++ nos proporciona la herramienta `endl` (*endline*) que funciona como `‘\n’`.
@@ -668,11 +668,11 @@ Todos los archivos son lo mismo para el computador. La diferencia es la forma c�
 4. **Actualización de datos:**
     1. En un “archivo de textos”, no se pueden actualizar los datos, esto se debe a que el espacio que ocupa un dato depende del número de cifras. Si se lee un dato de un archivo y en la modificación cambia su número de cifras, no habrá lugar para volverlo a grabar.
         
-        ![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2019.png)
+        ![Untitled](./Adicional/Pictures/Untitled%2019.png)
         
     2. En un “archivo binario”, esta tarea es perfectamente posible ya que a pesar que el valor cambie, el espacio que ocupa.
         
-        ![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2020.png)
+        ![Untitled](./Adicional/Pictures/Untitled%2020.png)
         
 
 ## Archivos de Textos en C++
@@ -939,11 +939,11 @@ void operator *(struct Persona &per, double porcentaje) {
 
 - Se pueden sobrecargar:
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2021.png)
+![Untitled](./Adicional/Pictures/Untitled%2021.png)
 
 - No se pueden sobrecargar:
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2022.png)
+![Untitled](./Adicional/Pictures/Untitled%2022.png)
 
 ## Plantillas de funciones
 
@@ -951,7 +951,7 @@ void operator *(struct Persona &per, double porcentaje) {
 
 Es una herramienta de C++ que permite implementar una función y que a la hora de compilarla el sistema genere varias versiones de esta función. Para esto se emplea un tipo de dato genérico: `template<typename TIPO>`.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2023.png)
+![Untitled](./Adicional/Pictures/Untitled%2023.png)
 
 <aside>
 <img src="https://www.notion.so/icons/exclamation-mark_blue.svg" alt="https://www.notion.so/icons/exclamation-mark_blue.svg" width="40px" /> **Importante**: Las plantillas de funciones se definen solo en su header (archivo .h). Ahí mismo tienen que incluirse las bibliotecas `iostream`, etc. Además por cada función que definamos debemos de indicar el `template<typename>`.
@@ -990,19 +990,19 @@ p = new int[5];
 p = new int[5]{12,7,9};
 ```
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2024.png)
+![Untitled](./Adicional/Pictures/Untitled%2024.png)
 
 ### Errores comunes en el uso de punteros dentro de funciones
 
 ---
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2025.png)
+![Untitled](./Adicional/Pictures/Untitled%2025.png)
 
 ## Liberación de un puntero
 
 ---
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2026.png)
+![Untitled](./Adicional/Pictures/Untitled%2026.png)
 
 ## Cadenas de caracteres
 
@@ -1163,21 +1163,21 @@ double ****r;
 
 ---
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2027.png)
+![Untitled](./Adicional/Pictures/Untitled%2027.png)
 
 ### Asignación: Puntero doble
 
 ---
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2028.png)
+![Untitled](./Adicional/Pictures/Untitled%2028.png)
 
 ### Matrices dinámicas
 
 ---
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2029.png)
+![Untitled](./Adicional/Pictures/Untitled%2029.png)
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2030.png)
+![Untitled](./Adicional/Pictures/Untitled%2030.png)
 
 # **Punteros a función**
 
@@ -1185,7 +1185,7 @@ double ****r;
 
 Es aquel puntero que apunta al código de una función. Se almacena la dirección y se ejecuta la función a través de puntero.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2031.png)
+![Untitled](./Adicional/Pictures/Untitled%2031.png)
 
 ## Declaración
 
@@ -1258,7 +1258,7 @@ Los elementos del arreglo primario tendrán siempre un tamaño fijo. La función
 
 Es una propiedad de la POO que permite crear una clase a partir de otra.
 
-![La clase B está heredando de la clase A.](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2032.png)
+![La clase B está heredando de la clase A.](./Adicional/Pictures/Untitled%2032.png)
 
 La clase B está heredando de la clase A.
 
@@ -1268,12 +1268,12 @@ La clase B está heredando de la clase A.
 
 1. Al heredar de una clase base, la clase derivada adquiere todos los atributos y métodos de la clase base. 
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2033.png)
+![Untitled](./Adicional/Pictures/Untitled%2033.png)
 
 1. La clase derivada puede “ocultar” o “sobrescribir” algún método. Esto no implica destruir el método original, sino ocultarlo.
 2. Desde la clase derivada no se podrá acceder a los elementos de la zona privada de la clase base.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2034.png)
+![Untitled](./Adicional/Pictures/Untitled%2034.png)
 
 ## Tipos de herencia
 
@@ -1294,7 +1294,7 @@ En la zona protegida se pueden colocar atributos y métodos. Solo tiene efecto e
 1. Los objetos no pueden acceder a la zona protegida, para ellos es una zona privada.
 2. Una clase derivada si puede acceder a la zona protegida de su clase base.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2035.png)
+![Untitled](./Adicional/Pictures/Untitled%2035.png)
 
 ## Especificadores de acceso
 
@@ -1327,9 +1327,9 @@ class ClaseC objC;
 class ClaseD objD;
 ```
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2036.png)
+![Untitled](./Adicional/Pictures/Untitled%2036.png)
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2037.png)
+![Untitled](./Adicional/Pictures/Untitled%2037.png)
 
 ### Restricciones
 
@@ -1349,7 +1349,7 @@ Con un método virtual el compilador le asigna una dirección de memoria , pero 
 
 Se realiza dentro de una jerarquía de clases (herencia), por lo general en la clase base.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2038.png)
+![Untitled](./Adicional/Pictures/Untitled%2038.png)
 
 ### Definición
 
@@ -1387,7 +1387,7 @@ virtual T metodoA (...) = 0;
 
 La igualdad con cero hará que el compilador no busque la implementación.
 
-![Untitled](INF281%20-%20Lenguaje%20de%20Programacio%CC%81n%201%200d52bd0f7347418586375298dc95287c/Untitled%2039.png)
+![Untitled](./Adicional/Pictures/Untitled%2039.png)
 
 Como la nueva clase solo se ha creado para poder realizar polimorfismo, se declaran los métodos puros.
 
